@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-05 11:42+0000\n"
+"PO-Revision-Date: 2015-05-05 20:46+0000\n"
 "Last-Translator: Valentin OVD <vovd.tanglu@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/database/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -28966,199 +28966,199 @@ msgid "road"
 msgstr "strada"
 
 msgid "road's"
-msgstr ""
+msgstr "su strada"
 
 msgid "roads"
-msgstr ""
+msgstr "strade"
 
 msgid "robot"
-msgstr ""
+msgstr "robot"
 
 msgid "robot's"
-msgstr ""
+msgstr "robot"
 
 msgid "robots"
-msgstr ""
+msgstr "robot"
 
 msgid "robust"
-msgstr ""
+msgstr "robusto"
 
 msgid "rock"
-msgstr ""
+msgstr "roccia"
 
 msgid "rock's"
-msgstr ""
+msgstr "su roccia"
 
 msgid "rocket"
-msgstr ""
+msgstr "razzo"
 
 msgid "rocks"
-msgstr ""
+msgstr "rocce"
 
 msgid "rod"
-msgstr ""
+msgstr "asta"
 
 msgid "rode"
-msgstr ""
+msgstr "Rode"
 
 msgid "role"
-msgstr ""
+msgstr "ruolo"
 
 msgid "role's"
-msgstr ""
+msgstr "di ruolo"
 
 msgid "roles"
-msgstr ""
+msgstr "ruoli"
 
 msgid "roll"
-msgstr ""
+msgstr "rotolo"
 
 msgid "roll's"
-msgstr ""
+msgstr "di rotolo"
 
 msgid "rolled"
-msgstr ""
+msgstr "laminati"
 
 msgid "rolling"
-msgstr ""
+msgstr "rotolamento"
 
 msgid "rolls"
-msgstr ""
+msgstr "rotoli"
 
 msgid "roman"
-msgstr ""
+msgstr "romano"
 
 msgid "romance"
-msgstr ""
+msgstr "romanticismo"
 
 msgid "romantic"
-msgstr ""
+msgstr "romantico"
 
 msgid "roof"
-msgstr ""
+msgstr "tetto"
 
 msgid "room"
-msgstr ""
+msgstr "camera"
 
 msgid "room's"
-msgstr ""
+msgstr "di sala"
 
 msgid "rooms"
-msgstr ""
+msgstr "camere"
 
 msgid "root"
-msgstr ""
+msgstr "radice"
 
 msgid "root's"
-msgstr ""
+msgstr "di radice"
 
 msgid "roots"
-msgstr ""
+msgstr "radici"
 
 msgid "rope"
-msgstr ""
+msgstr "corda"
 
 msgid "rose"
-msgstr ""
+msgstr "rosa"
 
 msgid "rot"
-msgstr ""
+msgstr "marciume"
 
 msgid "rotate"
-msgstr ""
+msgstr "ruotare"
 
 msgid "rotated"
-msgstr ""
+msgstr "ruotato"
 
 msgid "rotates"
-msgstr ""
+msgstr "ruota"
 
 msgid "rotating"
-msgstr ""
+msgstr "rotante"
 
 msgid "rotation"
-msgstr ""
+msgstr "rotazione"
 
 msgid "rotten"
-msgstr ""
+msgstr "marcio"
 
 msgid "rough"
-msgstr ""
+msgstr "ruvido"
 
 msgid "roughly"
-msgstr ""
+msgstr "all'incirca"
 
 msgid "round"
-msgstr ""
+msgstr "turno"
 
 msgid "round's"
-msgstr ""
+msgstr "di turno"
 
 msgid "roundabout"
-msgstr ""
+msgstr "rotonda"
 
 msgid "rounded"
-msgstr ""
+msgstr "arrotondato"
 
 msgid "rounding"
-msgstr ""
+msgstr "arrotondamento"
 
 msgid "rounds"
-msgstr ""
+msgstr "tondi"
 
 msgid "rout"
-msgstr ""
+msgstr "disfatta"
 
 msgid "route"
-msgstr ""
+msgstr "itinerario"
 
 msgid "route's"
-msgstr ""
+msgstr "di rotta"
 
 msgid "routed"
-msgstr ""
+msgstr "indirizzato"
 
 msgid "routes"
-msgstr ""
+msgstr "itinerari"
 
 msgid "routine"
-msgstr ""
+msgstr "routine di"
 
 msgid "routine's"
-msgstr ""
+msgstr "di routine"
 
 msgid "routinely"
-msgstr ""
+msgstr "ordinariamente"
 
 msgid "routines"
-msgstr ""
+msgstr "routine"
 
 msgid "routing"
-msgstr ""
+msgstr "routing"
 
 msgid "routs"
-msgstr ""
+msgstr "sbaraglia"
 
 msgid "row"
-msgstr ""
+msgstr "riga"
 
 msgid "row's"
-msgstr ""
+msgstr "di riga"
 
 msgid "rows"
-msgstr ""
+msgstr "righe"
 
 msgid "royal"
-msgstr ""
+msgstr "Royal"
 
 msgid "royalties"
-msgstr ""
+msgstr "royalties"
 
 msgid "rub"
-msgstr ""
+msgstr "strofinare"
 
 msgid "rubber"
-msgstr ""
+msgstr "gomma"
 
 msgid "rubbish"
 msgstr ""

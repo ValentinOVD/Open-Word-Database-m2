@@ -10,7 +10,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   git config --global user.name "Travis"
 
   #using token clone gh-pages branch
-  git clone --quiet --branch=binary-bot https://${GH_TOKEN}@github.com/ValentinOVD/Open-Word-Database binary > /dev/null
+  git clone --quiet --branch=master https://${GH_TOKEN}@github.com/ValentinOVD/Open-Word-Database-m2 binary > /dev/null
 
   #go into diractory and copy data we're interested in to that directory
   cd binary
@@ -19,7 +19,7 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
   #add, commit and push files
   git add -A .
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to binary-bot"
-  git push -fq origin binary-bot > /dev/null
+  git push -fq origin master > /dev/null
 
   echo -e "Great :D\n"
 fi

@@ -1,0 +1,99 @@
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "bye"
+msgstr ""
+
+msgid "fuck"
+msgstr ""
+
+msgid "you"
+msgstr ""
+
+msgid "me"
+msgstr ""
+
+msgid "us"
+msgstr ""
+
+msgid "me"
+msgstr ""
+
+msgid "you"
+msgstr ""
+
+msgid "linux"
+msgstr ""
+
+msgid "french"
+msgstr ""
+
+msgid "I"
+msgstr ""
+
+msgid "your"
+msgstr ""
+
+msgid "she"
+msgstr ""
+
+msgid "his"
+msgstr ""
+
+msgid "him"
+msgstr ""
+
+msgid "select"
+msgstr ""
+
+msgid "group"
+msgstr ""
+
+msgid "grant"
+msgstr ""
+
+msgid "permission"
+msgstr ""
+
+msgid "limit"
+msgstr ""
+
+msgid "solar"
+msgstr ""
+
+msgid "panel"
+msgstr ""
+
+msgid "between"
+msgstr ""
+
+msgid "whois"
+msgstr ""
+
+msgid "bitch"
+msgstr ""
+
+msgid "friend"
+msgstr ""
+
+msgid "friendship"
+msgstr ""
+
+msgid "friendships"
+msgstr ""
+
+msgid "money"
+msgstr ""
+
+msgid "bot"
+msgstr ""
+
+msgid "hello"
+msgstr ""
+
+msgid "exit"
+msgstr ""
+

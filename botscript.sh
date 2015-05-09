@@ -11,6 +11,7 @@ wget "https://$1:$2@www.transifex.com/api/2/project/database/resource/origin/tra
 wget "https://$1:$2@www.transifex.com/api/2/project/database/resource/origin/translation/nl/?file" -O nl.po
 wget "https://$1:$2@www.transifex.com/api/2/project/database/resource/origin/translation/it/?file" -O it.po
 wget "https://$1:$2@www.transifex.com/api/2/project/database/resource/origin/translation/el/?file" -O el.po
+wget "https://$1:$2@www.transifex.com/api/2/project/database/resource/origin/translation/pt/?file" -O pt.po
 
 git pull
 git add -A *

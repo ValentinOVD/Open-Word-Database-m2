@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-06 15:36+0000\n"
+"PO-Revision-Date: 2015-05-09 18:12+0000\n"
 "Last-Translator: Valentin OVD <vovd.tanglu@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/database/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -33784,7 +33784,7 @@ msgid "teenager's"
 msgstr ""
 
 msgid "teenagers"
-msgstr ""
+msgstr "gioco"
 
 msgid "teeth"
 msgstr ""
@@ -33805,7 +33805,7 @@ msgid "television"
 msgstr ""
 
 msgid "tell"
-msgstr ""
+msgstr "terribili"
 
 msgid "telling"
 msgstr ""
@@ -34051,7 +34051,7 @@ msgid "that's"
 msgstr ""
 
 msgid "the"
-msgstr ""
+msgstr "morire"
 
 msgid "theater"
 msgstr ""
@@ -34144,7 +34144,7 @@ msgid "thereof"
 msgstr ""
 
 msgid "these"
-msgstr ""
+msgstr "Alba"
 
 msgid "theses"
 msgstr ""
@@ -34183,7 +34183,7 @@ msgid "thin"
 msgstr ""
 
 msgid "thing"
-msgstr ""
+msgstr "ha scelto"
 
 msgid "thing's"
 msgstr ""
@@ -34231,7 +34231,7 @@ msgid "those"
 msgstr ""
 
 msgid "thou"
-msgstr ""
+msgstr "come"
 
 msgid "thou's"
 msgstr ""
@@ -34333,7 +34333,7 @@ msgid "thrusting"
 msgstr ""
 
 msgid "thrusts"
-msgstr ""
+msgstr "assi"
 
 msgid "thumb"
 msgstr ""
@@ -34654,7 +34654,7 @@ msgid "touches"
 msgstr ""
 
 msgid "touching"
-msgstr ""
+msgstr "pasticcio"
 
 msgid "tough"
 msgstr ""
@@ -34792,7 +34792,7 @@ msgid "trained"
 msgstr ""
 
 msgid "training"
-msgstr ""
+msgstr "formazione"
 
 msgid "trains"
 msgstr ""
@@ -34930,7 +34930,7 @@ msgid "trapping"
 msgstr ""
 
 msgid "traps"
-msgstr ""
+msgstr "caduto"
 
 msgid "trash"
 msgstr ""
@@ -35344,7 +35344,7 @@ msgid "ugh"
 msgstr ""
 
 msgid "ugly"
-msgstr ""
+msgstr "di cui"
 
 msgid "ultimate"
 msgstr ""
@@ -35416,7 +35416,7 @@ msgid "uncomfortable"
 msgstr ""
 
 msgid "uncommon"
-msgstr ""
+msgstr "raro"
 
 msgid "unconnected"
 msgstr ""
@@ -35770,7 +35770,7 @@ msgid "unsatisfactory"
 msgstr ""
 
 msgid "unseen"
-msgstr ""
+msgstr "invisibile"
 
 msgid "unset"
 msgstr ""
@@ -36208,7 +36208,7 @@ msgid "venture"
 msgstr ""
 
 msgid "venue"
-msgstr ""
+msgstr "Inserisci"
 
 msgid "venue's"
 msgstr ""
@@ -36583,7 +36583,7 @@ msgid "waiting"
 msgstr ""
 
 msgid "waits"
-msgstr ""
+msgstr "frequentare"
 
 msgid "wake"
 msgstr ""
@@ -36838,7 +36838,7 @@ msgid "wear"
 msgstr ""
 
 msgid "wearing"
-msgstr ""
+msgstr "porta"
 
 msgid "wears"
 msgstr ""
@@ -36904,7 +36904,7 @@ msgid "weight"
 msgstr ""
 
 msgid "weird"
-msgstr ""
+msgstr "bizzarro"
 
 msgid "welcome"
 msgstr ""
@@ -36922,7 +36922,7 @@ msgid "welfare"
 msgstr ""
 
 msgid "well"
-msgstr ""
+msgstr "intestino"
 
 msgid "went"
 msgstr ""
@@ -37000,7 +37000,7 @@ msgid "whether"
 msgstr ""
 
 msgid "which"
-msgstr ""
+msgstr "morire"
 
 msgid "whichever"
 msgstr ""
@@ -37072,7 +37072,7 @@ msgid "wicked"
 msgstr ""
 
 msgid "wide"
-msgstr ""
+msgstr "grande"
 
 msgid "widely"
 msgstr ""

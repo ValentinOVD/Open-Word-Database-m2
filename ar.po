@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-04 18:49+0000\n"
+"PO-Revision-Date: 2015-05-09 18:12+0000\n"
 "Last-Translator: Valentin OVD <vovd.tanglu@gmail.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/database/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -26596,7 +26596,7 @@ msgid "purple"
 msgstr ""
 
 msgid "purpose"
-msgstr ""
+msgstr "ولكن"
 
 msgid "purpose's"
 msgstr ""
@@ -26638,7 +26638,7 @@ msgid "put's"
 msgstr ""
 
 msgid "puts"
-msgstr ""
+msgstr "واجتمع"
 
 msgid "putt"
 msgstr ""
@@ -26782,7 +26782,7 @@ msgid "queued"
 msgstr ""
 
 msgid "queues"
-msgstr ""
+msgstr "التعليمات البرمجية"
 
 msgid "queuing"
 msgstr ""
@@ -26875,7 +26875,7 @@ msgid "rabid"
 msgstr ""
 
 msgid "race"
-msgstr ""
+msgstr "بالطبع"
 
 msgid "race's"
 msgstr ""
@@ -26884,7 +26884,7 @@ msgid "raced"
 msgstr ""
 
 msgid "races"
-msgstr ""
+msgstr "الدورات التدريبية"
 
 msgid "racial"
 msgstr ""
@@ -27028,7 +27028,7 @@ msgid "ranging"
 msgstr ""
 
 msgid "rank"
-msgstr ""
+msgstr "الصف"
 
 msgid "rank's"
 msgstr ""
@@ -27223,19 +27223,19 @@ msgid "readily"
 msgstr ""
 
 msgid "reading"
-msgstr ""
+msgstr "محاضرة"
 
 msgid "reading's"
 msgstr ""
 
 msgid "readings"
-msgstr ""
+msgstr "محاضرات"
 
 msgid "reads"
-msgstr ""
+msgstr "محاضرات"
 
 msgid "ready"
-msgstr ""
+msgstr "خشية أن"
 
 msgid "real"
 msgstr ""
@@ -27859,7 +27859,7 @@ msgid "relative"
 msgstr ""
 
 msgid "relative's"
-msgstr ""
+msgstr "الأصل"
 
 msgid "relatively"
 msgstr ""
@@ -28039,7 +28039,7 @@ msgid "reminiscent"
 msgstr ""
 
 msgid "remote"
-msgstr ""
+msgstr "المسافة"
 
 msgid "remotely"
 msgstr ""
@@ -28306,7 +28306,7 @@ msgid "requiring"
 msgstr ""
 
 msgid "requisite"
-msgstr ""
+msgstr "الشرط"
 
 msgid "reread"
 msgstr ""
@@ -28567,7 +28567,7 @@ msgid "restrained"
 msgstr ""
 
 msgid "restraining"
-msgstr ""
+msgstr "تزاحم"
 
 msgid "restrains"
 msgstr ""
@@ -28615,7 +28615,7 @@ msgid "results"
 msgstr ""
 
 msgid "resume"
-msgstr ""
+msgstr "المناهج الدراسية"
 
 msgid "resumed"
 msgstr ""
@@ -28717,7 +28717,7 @@ msgid "revenue"
 msgstr ""
 
 msgid "reverse"
-msgstr ""
+msgstr "معكوس"
 
 msgid "reversed"
 msgstr ""
@@ -29038,7 +29038,7 @@ msgid "roof"
 msgstr ""
 
 msgid "room"
-msgstr ""
+msgstr "الكاميرا"
 
 msgid "room's"
 msgstr ""
@@ -29488,13 +29488,13 @@ msgid "saw"
 msgstr ""
 
 msgid "say"
-msgstr ""
+msgstr "ماسة"
 
 msgid "saying"
 msgstr ""
 
 msgid "says"
-msgstr ""
+msgstr "الزهر"
 
 msgid "scale"
 msgstr ""
@@ -30037,7 +30037,7 @@ msgid "sent"
 msgstr ""
 
 msgid "sentence"
-msgstr ""
+msgstr "العبارة"
 
 msgid "sentence's"
 msgstr ""
@@ -30046,7 +30046,7 @@ msgid "sentenced"
 msgstr ""
 
 msgid "sentences"
-msgstr ""
+msgstr "العبارات"
 
 msgid "sentencing"
 msgstr ""
@@ -30217,7 +30217,7 @@ msgid "several"
 msgstr ""
 
 msgid "severe"
-msgstr ""
+msgstr "القبر"
 
 msgid "severely"
 msgstr ""
@@ -30274,7 +30274,7 @@ msgid "shaking"
 msgstr ""
 
 msgid "shaky"
-msgstr ""
+msgstr "الهشة"
 
 msgid "shall"
 msgstr ""
@@ -30319,7 +30319,7 @@ msgid "shareholders"
 msgstr ""
 
 msgid "shares"
-msgstr ""
+msgstr "الإجراءات"
 
 msgid "sharing"
 msgstr ""
@@ -30487,7 +30487,7 @@ msgid "shops"
 msgstr ""
 
 msgid "short"
-msgstr ""
+msgstr "المحكمة"
 
 msgid "short's"
 msgstr ""
@@ -30646,7 +30646,7 @@ msgid "sighted"
 msgstr ""
 
 msgid "sighting"
-msgstr ""
+msgstr "المراقبة"
 
 msgid "sights"
 msgstr ""
@@ -31198,7 +31198,7 @@ msgid "smokers"
 msgstr ""
 
 msgid "smokes"
-msgstr ""
+msgstr "الدخان"
 
 msgid "smoking"
 msgstr ""
@@ -31915,16 +31915,16 @@ msgid "stable"
 msgstr ""
 
 msgid "stack"
-msgstr ""
+msgstr "كومة"
 
 msgid "stack's"
 msgstr ""
 
 msgid "stacks"
-msgstr ""
+msgstr "كومة"
 
 msgid "staff"
-msgstr ""
+msgstr "شؤون الموظفين"
 
 msgid "stage"
 msgstr ""
@@ -31966,7 +31966,7 @@ msgid "stale"
 msgstr ""
 
 msgid "stall"
-msgstr ""
+msgstr "قبل"
 
 msgid "stamp"
 msgstr ""
@@ -31984,7 +31984,7 @@ msgid "stamps"
 msgstr ""
 
 msgid "stance"
-msgstr ""
+msgstr "موقف"
 
 msgid "stand"
 msgstr ""
@@ -32173,7 +32173,7 @@ msgid "steadily"
 msgstr ""
 
 msgid "steady"
-msgstr ""
+msgstr "ثابت"
 
 msgid "steal"
 msgstr ""
@@ -32218,7 +32218,7 @@ msgid "stems"
 msgstr ""
 
 msgid "step"
-msgstr ""
+msgstr "تمرير"
 
 msgid "step's"
 msgstr ""
@@ -32608,7 +32608,7 @@ msgid "stuffed"
 msgstr ""
 
 msgid "stuffing"
-msgstr ""
+msgstr "مهزلة"
 
 msgid "stuffs"
 msgstr ""
@@ -32812,7 +32812,7 @@ msgid "successor"
 msgstr ""
 
 msgid "such"
-msgstr ""
+msgstr "فجر"
 
 msgid "sudden"
 msgstr ""
@@ -32839,7 +32839,7 @@ msgid "sufferer"
 msgstr ""
 
 msgid "sufferer's"
-msgstr ""
+msgstr "المريض"
 
 msgid "sufferers"
 msgstr ""
@@ -32953,10 +32953,10 @@ msgid "summed"
 msgstr ""
 
 msgid "summer"
-msgstr ""
+msgstr "الحوزة"
 
 msgid "summing"
-msgstr ""
+msgstr "كتاب"
 
 msgid "sums"
 msgstr ""
@@ -33547,7 +33547,7 @@ msgid "tailors"
 msgstr ""
 
 msgid "tails"
-msgstr ""
+msgstr "التعليمات البرمجية"
 
 msgid "take"
 msgstr ""
@@ -33784,7 +33784,7 @@ msgid "teenager's"
 msgstr ""
 
 msgid "teenagers"
-msgstr ""
+msgstr "لعبة"
 
 msgid "teeth"
 msgstr ""
@@ -33805,7 +33805,7 @@ msgid "television"
 msgstr ""
 
 msgid "tell"
-msgstr ""
+msgstr "ماسة"
 
 msgid "telling"
 msgstr ""
@@ -34051,7 +34051,7 @@ msgid "that's"
 msgstr ""
 
 msgid "the"
-msgstr ""
+msgstr "يموت"
 
 msgid "theater"
 msgstr ""
@@ -34144,7 +34144,7 @@ msgid "thereof"
 msgstr ""
 
 msgid "these"
-msgstr ""
+msgstr "فجر"
 
 msgid "theses"
 msgstr ""
@@ -34183,7 +34183,7 @@ msgid "thin"
 msgstr ""
 
 msgid "thing"
-msgstr ""
+msgstr "اختيار"
 
 msgid "thing's"
 msgstr ""
@@ -34231,7 +34231,7 @@ msgid "those"
 msgstr ""
 
 msgid "thou"
-msgstr ""
+msgstr "مثل"
 
 msgid "thou's"
 msgstr ""
@@ -34333,7 +34333,7 @@ msgid "thrusting"
 msgstr ""
 
 msgid "thrusts"
-msgstr ""
+msgstr "محاور"
 
 msgid "thumb"
 msgstr ""
@@ -34654,7 +34654,7 @@ msgid "touches"
 msgstr ""
 
 msgid "touching"
-msgstr ""
+msgstr "فوضى"
 
 msgid "tough"
 msgstr ""
@@ -34792,7 +34792,7 @@ msgid "trained"
 msgstr ""
 
 msgid "training"
-msgstr ""
+msgstr "تشكيل"
 
 msgid "trains"
 msgstr ""
@@ -34930,7 +34930,7 @@ msgid "trapping"
 msgstr ""
 
 msgid "traps"
-msgstr ""
+msgstr "سقط"
 
 msgid "trash"
 msgstr ""
@@ -35344,7 +35344,7 @@ msgid "ugh"
 msgstr ""
 
 msgid "ugly"
-msgstr ""
+msgstr "أرسى"
 
 msgid "ultimate"
 msgstr ""
@@ -35770,7 +35770,7 @@ msgid "unsatisfactory"
 msgstr ""
 
 msgid "unseen"
-msgstr ""
+msgstr "غير مرئية"
 
 msgid "unset"
 msgstr ""
@@ -36208,7 +36208,7 @@ msgid "venture"
 msgstr ""
 
 msgid "venue"
-msgstr ""
+msgstr "وظيفة"
 
 msgid "venue's"
 msgstr ""
@@ -36583,7 +36583,7 @@ msgid "waiting"
 msgstr ""
 
 msgid "waits"
-msgstr ""
+msgstr "حضور"
 
 msgid "wake"
 msgstr ""
@@ -36838,7 +36838,7 @@ msgid "wear"
 msgstr ""
 
 msgid "wearing"
-msgstr ""
+msgstr "منفذ"
 
 msgid "wears"
 msgstr ""
@@ -36904,7 +36904,7 @@ msgid "weight"
 msgstr ""
 
 msgid "weird"
-msgstr ""
+msgstr "غريبة"
 
 msgid "welcome"
 msgstr ""
@@ -36922,7 +36922,7 @@ msgid "welfare"
 msgstr ""
 
 msgid "well"
-msgstr ""
+msgstr "القناة الهضمية"
 
 msgid "went"
 msgstr ""
@@ -37000,7 +37000,7 @@ msgid "whether"
 msgstr ""
 
 msgid "which"
-msgstr ""
+msgstr "يموت"
 
 msgid "whichever"
 msgstr ""
@@ -37072,7 +37072,7 @@ msgid "wicked"
 msgstr ""
 
 msgid "wide"
-msgstr ""
+msgstr "كبير"
 
 msgid "widely"
 msgstr ""

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-10 18:42+0000\n"
+"PO-Revision-Date: 2015-05-10 19:53+0000\n"
 "Last-Translator: Maycon Amaro\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/database/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -637,7 +637,7 @@ msgid "adhere"
 msgstr "aderir"
 
 msgid "adhered"
-msgstr "aderiu"
+msgstr "aderido"
 
 msgid "adheres"
 msgstr "adere"
@@ -646,7 +646,7 @@ msgid "adhering"
 msgstr "aderindo"
 
 msgid "adjacent"
-msgstr "adjacentes"
+msgstr "adjacente"
 
 msgid "adjective"
 msgstr "adjetivo"
@@ -679,13 +679,13 @@ msgid "administered"
 msgstr "administrado"
 
 msgid "administering"
-msgstr "administrar"
+msgstr "administrando"
 
 msgid "administers"
 msgstr "administra"
 
 msgid "administration"
-msgstr "Administração"
+msgstr "administração"
 
 msgid "administrative"
 msgstr "administrativo"
@@ -697,16 +697,16 @@ msgid "admiration"
 msgstr "admiração"
 
 msgid "admire"
-msgstr "Admiro"
+msgstr "admirar"
 
 msgid "admission"
 msgstr "admissão"
 
 msgid "admit"
-msgstr "admitir"
+msgstr "confessar"
 
 msgid "admits"
-msgstr "admite"
+msgstr "confessa"
 
 msgid "admitted"
 msgstr "admitido"
@@ -715,7 +715,7 @@ msgid "admittedly"
 msgstr "reconhecidamente"
 
 msgid "admitting"
-msgstr "admitindo"
+msgstr "confessando"
 
 msgid "adopt"
 msgstr "adotar"
@@ -724,7 +724,7 @@ msgid "adopted"
 msgstr "adotado"
 
 msgid "adopting"
-msgstr "Adotando"
+msgstr "adotando"
 
 msgid "adoption"
 msgstr "adoção"
@@ -760,7 +760,7 @@ msgid "advantage"
 msgstr "vantagem"
 
 msgid "advantage's"
-msgstr "vantagem"
+msgstr "da vantagem"
 
 msgid "advantageous"
 msgstr "vantajoso"
@@ -775,7 +775,7 @@ msgid "adventure"
 msgstr "aventura"
 
 msgid "adventure's"
-msgstr "aventura"
+msgstr "da aventura"
 
 msgid "adventures"
 msgstr "aventuras"
@@ -784,7 +784,7 @@ msgid "adventurous"
 msgstr "aventureiro"
 
 msgid "adverse"
-msgstr "adversos"
+msgstr "adverso"
 
 msgid "adversely"
 msgstr "negativamente"
@@ -796,7 +796,7 @@ msgid "advert's"
 msgstr "do anúncio"
 
 msgid "advertise"
-msgstr "Anuncie"
+msgstr "anunciar"
 
 msgid "advertised"
 msgstr "anunciado"
@@ -814,13 +814,13 @@ msgid "advertises"
 msgstr "anuncia"
 
 msgid "advertising"
-msgstr "publicidade"
+msgstr "anunciando"
 
 msgid "adverts"
 msgstr "anúncios"
 
 msgid "advice"
-msgstr "conselhos"
+msgstr "conselho"
 
 msgid "advisable"
 msgstr "aconselhável"
@@ -829,10 +829,10 @@ msgid "advise"
 msgstr "aconselhar"
 
 msgid "advised"
-msgstr "aconselhados"
+msgstr "aconselhado"
 
 msgid "adviser"
-msgstr "Conselheiro"
+msgstr "conselheiro"
 
 msgid "adviser's"
 msgstr "do conselheiro"
@@ -847,7 +847,7 @@ msgid "advising"
 msgstr "aconselhando"
 
 msgid "advisory"
-msgstr "Assessoria"
+msgstr "assessoria"
 
 msgid "advocate"
 msgstr "advogado"
@@ -856,7 +856,7 @@ msgid "advocate's"
 msgstr "do advogado"
 
 msgid "advocated"
-msgstr "defendeu"
+msgstr "defendido"
 
 msgid "advocates"
 msgstr "defensores"
@@ -865,7 +865,7 @@ msgid "advocating"
 msgstr "advogando"
 
 msgid "aerial"
-msgstr "aérea"
+msgstr "aéreo"
 
 msgid "aesthetic"
 msgstr "estética"
@@ -880,16 +880,16 @@ msgid "affair's"
 msgstr "do caso"
 
 msgid "affairs"
-msgstr "Assuntos"
+msgstr "casos"
 
 msgid "affect"
-msgstr "afetam"
+msgstr "afetar"
 
 msgid "affect's"
-msgstr "do afeto"
+msgstr "do efeito"
 
 msgid "affected"
-msgstr "afetados"
+msgstr "afetado"
 
 msgid "affecting"
 msgstr "afetando"
@@ -904,7 +904,7 @@ msgid "afford"
 msgstr "pagar"
 
 msgid "aforementioned"
-msgstr "acima mencionados"
+msgstr "supracitado"
 
 msgid "afraid"
 msgstr "com medo"
@@ -922,13 +922,13 @@ msgid "afternoons"
 msgstr "tardes"
 
 msgid "afterward"
-msgstr "Depois"
+msgstr "mais tarde"
 
 msgid "afterwards"
-msgstr "Depois"
+msgstr "mais tarde"
 
 msgid "again"
-msgstr "mais uma vez"
+msgstr "novamente"
 
 msgid "against"
 msgstr "contra"
@@ -943,13 +943,13 @@ msgid "aged"
 msgstr "envelhecido"
 
 msgid "agency"
-msgstr "Agência"
+msgstr "agência"
 
 msgid "agenda"
 msgstr "agenda"
 
 msgid "agent"
-msgstr "Agente"
+msgstr "agente"
 
 msgid "agent's"
 msgstr "do agente"
@@ -967,16 +967,16 @@ msgid "aging"
 msgstr "envelhecimento"
 
 msgid "ago"
-msgstr "Há"
+msgstr "atrás"
 
 msgid "agony"
 msgstr "agonia"
 
 msgid "agree"
-msgstr "Concordo"
+msgstr "concordar"
 
 msgid "agreed"
-msgstr "concordou"
+msgstr "de acordo"
 
 msgid "agreeing"
 msgstr "concordando"
@@ -1012,22 +1012,22 @@ msgid "aiding"
 msgstr "auxiliando"
 
 msgid "aids"
-msgstr "AIDS/SIDA"
+msgstr "auxilia"
 
 msgid "aim"
-msgstr "objectivo"
+msgstr "alvo"
 
 msgid "aim's"
-msgstr "do objetivo"
+msgstr "do alvo"
 
 msgid "aimed"
 msgstr "destinado"
 
 msgid "aiming"
-msgstr "com o objetivo"
+msgstr "almejando"
 
 msgid "aims"
-msgstr "objectivos"
+msgstr "almeja"
 
 msgid "air"
 msgstr "ar"

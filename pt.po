@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-10 01:01+0000\n"
+"PO-Revision-Date: 2015-05-10 02:00+0000\n"
 "Last-Translator: Maycon Amaro\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/database/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -31159,1582 +31159,1582 @@ msgid "smell's"
 msgstr "do cheiro"
 
 msgid "smells"
-msgstr ""
+msgstr "cheiros"
 
 msgid "smelly"
-msgstr ""
+msgstr "fedorento"
 
 msgid "smile"
-msgstr ""
+msgstr "sorriso"
 
 msgid "smile's"
-msgstr ""
+msgstr "do sorriso"
 
 msgid "smiled"
-msgstr ""
+msgstr "sorriu"
 
 msgid "smiles"
-msgstr ""
+msgstr "sorrisos"
 
 msgid "smiling"
-msgstr ""
+msgstr "sorrindo"
 
 msgid "smith"
-msgstr ""
+msgstr "Smith"
 
 msgid "smoke"
-msgstr ""
+msgstr "fumaça"
 
 msgid "smoked"
-msgstr ""
+msgstr "fumado"
 
 msgid "smoker"
-msgstr ""
+msgstr "fumante"
 
 msgid "smoker's"
-msgstr ""
+msgstr "do fumante"
 
 msgid "smokers"
-msgstr ""
+msgstr "fumantes"
 
 msgid "smokes"
 msgstr "emanações"
 
 msgid "smoking"
-msgstr ""
+msgstr "fumar"
 
 msgid "smooth"
-msgstr ""
+msgstr "Lisa"
 
 msgid "smoothly"
-msgstr ""
+msgstr "sem problemas"
 
 msgid "smug"
-msgstr ""
+msgstr "presunçoso"
 
 msgid "snack"
-msgstr ""
+msgstr "lanche"
 
 msgid "snag"
-msgstr ""
+msgstr "snag"
 
 msgid "snail"
-msgstr ""
+msgstr "caracol"
 
 msgid "sneak"
-msgstr ""
+msgstr "esgueirar-se"
 
 msgid "sneaked"
-msgstr ""
+msgstr "furtivamente"
 
 msgid "sneaking"
-msgstr ""
+msgstr "às escondidas"
 
 msgid "sneaks"
-msgstr ""
+msgstr "ténis"
 
 msgid "sneaky"
-msgstr ""
+msgstr "sorrateira"
 
 msgid "sniff"
-msgstr ""
+msgstr "sniff"
 
 msgid "snobbery"
-msgstr ""
+msgstr "esnobismo"
 
 msgid "snow"
-msgstr ""
+msgstr "neve"
 
 msgid "so"
-msgstr ""
+msgstr "Então"
 
 msgid "soap"
-msgstr ""
+msgstr "sabão"
 
 msgid "sober"
-msgstr ""
+msgstr "sóbrio"
 
 msgid "social"
-msgstr ""
+msgstr "social"
 
 msgid "socialism"
-msgstr ""
+msgstr "socialismo"
 
 msgid "socialist"
-msgstr ""
+msgstr "Socialista"
 
 msgid "socially"
-msgstr ""
+msgstr "socialmente"
 
 msgid "societies"
-msgstr ""
+msgstr "sociedades"
 
 msgid "society"
-msgstr ""
+msgstr "sociedade"
 
 msgid "society's"
-msgstr ""
+msgstr "do sociedade"
 
 msgid "sock"
-msgstr ""
+msgstr "meia"
 
 msgid "sock's"
-msgstr ""
+msgstr "Sock"
 
 msgid "socket"
-msgstr ""
+msgstr "soquete"
 
 msgid "socket's"
-msgstr ""
+msgstr "do soquete"
 
 msgid "sockets"
-msgstr ""
+msgstr "soquetes"
 
 msgid "socks"
-msgstr ""
+msgstr "meias"
 
 msgid "sod"
-msgstr ""
+msgstr "SOD"
 
 msgid "soft"
-msgstr ""
+msgstr "macio"
 
 msgid "software"
-msgstr ""
+msgstr "software"
 
 msgid "soil"
-msgstr ""
+msgstr "solo"
 
 msgid "solar"
-msgstr ""
+msgstr "solar"
 
 msgid "sold"
-msgstr ""
+msgstr "vendida"
 
 msgid "soldier"
-msgstr ""
+msgstr "soldado"
 
 msgid "soldier's"
-msgstr ""
+msgstr "do soldado"
 
 msgid "soldiers"
-msgstr ""
+msgstr "soldados"
 
 msgid "sole"
-msgstr ""
+msgstr "sola"
 
 msgid "sole's"
-msgstr ""
+msgstr "a sola"
 
 msgid "solely"
-msgstr ""
+msgstr "unicamente"
 
 msgid "soles"
-msgstr ""
+msgstr "solas"
 
 msgid "solicitor"
-msgstr ""
+msgstr "solicitador"
 
 msgid "solicitor's"
-msgstr ""
+msgstr "do advogado"
 
 msgid "solicitors"
-msgstr ""
+msgstr "solicitadores"
 
 msgid "solid"
-msgstr ""
+msgstr "sólido"
 
 msgid "solo"
-msgstr ""
+msgstr "solo"
 
 msgid "solution"
-msgstr ""
+msgstr "solução"
 
 msgid "solution's"
-msgstr ""
+msgstr "do solução"
 
 msgid "solutions"
-msgstr ""
+msgstr "soluções"
 
 msgid "solve"
-msgstr ""
+msgstr "resolver"
 
 msgid "solved"
-msgstr ""
+msgstr "resolvido"
 
 msgid "solves"
-msgstr ""
+msgstr "resolve"
 
 msgid "solving"
-msgstr ""
+msgstr "resolução"
 
 msgid "some"
-msgstr ""
+msgstr "alguns"
 
 msgid "somebody"
-msgstr ""
+msgstr "Alguém"
 
 msgid "somehow"
-msgstr ""
+msgstr "de alguma forma"
 
 msgid "someone"
-msgstr ""
+msgstr "Alguém"
 
 msgid "someplace"
-msgstr ""
+msgstr "em algum lugar"
 
 msgid "something"
-msgstr ""
+msgstr "algo"
 
 msgid "sometime"
-msgstr ""
+msgstr "um dia destes"
 
 msgid "sometimes"
-msgstr ""
+msgstr "às vezes"
 
 msgid "somewhat"
-msgstr ""
+msgstr "um pouco"
 
 msgid "somewhere"
-msgstr ""
+msgstr "em algum lugar"
 
 msgid "son"
-msgstr ""
+msgstr "filho"
 
 msgid "son's"
-msgstr ""
+msgstr "do filho"
 
 msgid "song"
-msgstr ""
+msgstr "canção"
 
 msgid "song's"
-msgstr ""
+msgstr "do canção"
 
 msgid "songs"
-msgstr ""
+msgstr "canções"
 
 msgid "sons"
-msgstr ""
+msgstr "filhos"
 
 msgid "soon"
-msgstr ""
+msgstr "em breve"
 
 msgid "sooner"
-msgstr ""
+msgstr "Quanto mais cedo"
 
 msgid "soonest"
-msgstr ""
+msgstr "mais logo"
 
 msgid "sophisticate"
-msgstr ""
+msgstr "sophisticate"
 
 msgid "sophisticated"
-msgstr ""
+msgstr "sofisticado"
 
 msgid "sophisticates"
-msgstr ""
+msgstr "sofisticados"
 
 msgid "sophisticating"
-msgstr ""
+msgstr "sofisticando"
 
 msgid "sordid"
-msgstr ""
+msgstr "sórdido"
 
 msgid "sore"
-msgstr ""
+msgstr "dolorido"
 
 msgid "sorry"
-msgstr ""
+msgstr "Sinto muito"
 
 msgid "sort"
-msgstr ""
+msgstr "tipo"
 
 msgid "sort's"
-msgstr ""
+msgstr "do tipo"
 
 msgid "sorted"
-msgstr ""
+msgstr "classificados"
 
 msgid "sorting"
-msgstr ""
+msgstr "classificação"
 
 msgid "sorts"
-msgstr ""
+msgstr "classifica"
 
 msgid "sought"
-msgstr ""
+msgstr "procurou"
 
 msgid "soul"
-msgstr ""
+msgstr "alma"
 
 msgid "soul's"
-msgstr ""
+msgstr "da alma"
 
 msgid "souls"
-msgstr ""
+msgstr "almas"
 
 msgid "sound"
-msgstr ""
+msgstr "som"
 
 msgid "sound's"
-msgstr ""
+msgstr "do som"
 
 msgid "sounded"
-msgstr ""
+msgstr "soou"
 
 msgid "sounding"
-msgstr ""
+msgstr "soando"
 
 msgid "sounds"
-msgstr ""
+msgstr "sons"
 
 msgid "soundtrack"
-msgstr ""
+msgstr "trilha sonora"
 
 msgid "soup"
-msgstr ""
+msgstr "sopa"
 
 msgid "source"
-msgstr ""
+msgstr "fonte"
 
 msgid "source's"
-msgstr ""
+msgstr "do fonte"
 
 msgid "sources"
-msgstr ""
+msgstr "fontes"
 
 msgid "south"
-msgstr ""
+msgstr "Sul"
 
 msgid "southern"
-msgstr ""
+msgstr "Sul"
 
 msgid "space"
-msgstr ""
+msgstr "espaço"
 
 msgid "space's"
-msgstr ""
+msgstr "do espaço"
 
 msgid "spaced"
-msgstr ""
+msgstr "espaçados"
 
 msgid "spaces"
-msgstr ""
+msgstr "espaços"
 
 msgid "spacing"
-msgstr ""
+msgstr "espaçamento"
 
 msgid "span"
-msgstr ""
+msgstr "span"
 
 msgid "spare"
-msgstr ""
+msgstr "reposição"
 
 msgid "spare's"
-msgstr ""
+msgstr "reposição de"
 
 msgid "spares"
-msgstr ""
+msgstr "peças de reposição"
 
 msgid "spatial"
-msgstr ""
+msgstr "espacial"
 
 msgid "speak"
-msgstr ""
+msgstr "Fala"
 
 msgid "speaker"
-msgstr ""
+msgstr "alto-falante"
 
 msgid "speaker's"
-msgstr ""
+msgstr "do alto-falante"
 
 msgid "speakers"
-msgstr ""
+msgstr "alto-falantes"
 
 msgid "speaking"
-msgstr ""
+msgstr "falando"
 
 msgid "speaks"
-msgstr ""
+msgstr "Fala"
 
 msgid "special"
-msgstr ""
+msgstr "especial"
 
 msgid "specialist"
-msgstr ""
+msgstr "especialista"
 
 msgid "specialize"
-msgstr ""
+msgstr "especializamo-nos"
 
 msgid "specialized"
-msgstr ""
+msgstr "especializada"
 
 msgid "specializes"
-msgstr ""
+msgstr "especializa-se"
 
 msgid "specializing"
-msgstr ""
+msgstr "especializando-se"
 
 msgid "specially"
-msgstr ""
+msgstr "especialmente"
 
 msgid "specialty"
-msgstr ""
+msgstr "especialidade"
 
 msgid "species"
-msgstr ""
+msgstr "espécies"
 
 msgid "species's"
-msgstr ""
+msgstr "a espécie"
 
 msgid "specific"
-msgstr ""
+msgstr "específicos"
 
 msgid "specifically"
-msgstr ""
+msgstr "especificamente"
 
 msgid "specification"
-msgstr ""
+msgstr "especificação"
 
 msgid "specification's"
-msgstr ""
+msgstr "do especificação"
 
 msgid "specifications"
-msgstr ""
+msgstr "especificações"
 
 msgid "specified"
-msgstr ""
+msgstr "especificado"
 
 msgid "specifies"
-msgstr ""
+msgstr "Especifica"
 
 msgid "specify"
-msgstr ""
+msgstr "especificar"
 
 msgid "specifying"
-msgstr ""
+msgstr "especificando"
 
 msgid "specimen"
-msgstr ""
+msgstr "espécime"
 
 msgid "spectacular"
-msgstr ""
+msgstr "espetacular"
 
 msgid "spectrum"
-msgstr ""
+msgstr "espectro"
 
 msgid "speculate"
-msgstr ""
+msgstr "especular"
 
 msgid "speculation"
-msgstr ""
+msgstr "especulação"
 
 msgid "sped"
-msgstr ""
+msgstr "SPED"
 
 msgid "speech"
-msgstr ""
+msgstr "discurso"
 
 msgid "speech's"
-msgstr ""
+msgstr "do discurso"
 
 msgid "speeches"
-msgstr ""
+msgstr "discursos"
 
 msgid "speed"
-msgstr ""
+msgstr "velocidade"
 
 msgid "speed's"
-msgstr ""
+msgstr "do velocidade"
 
 msgid "speeding"
-msgstr ""
+msgstr "excesso de velocidade"
 
 msgid "speeds"
-msgstr ""
+msgstr "velocidades"
 
 msgid "spell"
-msgstr ""
+msgstr "feitiço"
 
 msgid "spell's"
-msgstr ""
+msgstr "do feitiço"
 
 msgid "spelled"
-msgstr ""
+msgstr "escreve-se"
 
 msgid "spelling"
-msgstr ""
+msgstr "ortografia"
 
 msgid "spelling's"
-msgstr ""
+msgstr "a ortografia"
 
 msgid "spellings"
-msgstr ""
+msgstr "grafias"
 
 msgid "spells"
-msgstr ""
+msgstr "feitiços"
 
 msgid "spend"
-msgstr ""
+msgstr "passar"
 
 msgid "spending"
-msgstr ""
+msgstr "gastos"
 
 msgid "spends"
-msgstr ""
+msgstr "gasta"
 
 msgid "spent"
-msgstr ""
+msgstr "passou"
 
 msgid "sphere"
-msgstr ""
+msgstr "esfera"
 
 msgid "spies"
-msgstr ""
+msgstr "espiões"
 
 msgid "spigot"
-msgstr ""
+msgstr "Spigot"
 
 msgid "spike"
-msgstr ""
+msgstr "Spike"
 
 msgid "spill"
-msgstr ""
+msgstr "derramamento"
 
 msgid "spin"
-msgstr ""
+msgstr "Spin"
 
 msgid "spiral"
-msgstr ""
+msgstr "espiral"
 
 msgid "spirit"
-msgstr ""
+msgstr "espírito"
 
 msgid "spirit's"
-msgstr ""
+msgstr "do espírito"
 
 msgid "spirits"
-msgstr ""
+msgstr "espíritos"
 
 msgid "spiritual"
-msgstr ""
+msgstr "espiritual"
 
 msgid "spit"
-msgstr ""
+msgstr "espeto"
 
 msgid "spite"
-msgstr ""
+msgstr "despeito"
 
 msgid "spits"
-msgstr ""
+msgstr "Cospe"
 
 msgid "spitted"
-msgstr ""
+msgstr "mexo"
 
 msgid "spitting"
-msgstr ""
+msgstr "cuspir"
 
 msgid "splendid"
-msgstr ""
+msgstr "esplêndido"
 
 msgid "split"
-msgstr ""
+msgstr "Split"
 
 msgid "split's"
-msgstr ""
+msgstr "Split"
 
 msgid "splits"
-msgstr ""
+msgstr "divide-se"
 
 msgid "splitting"
-msgstr ""
+msgstr "Divisão"
 
 msgid "spoil"
-msgstr ""
+msgstr "estragar"
 
 msgid "spoiled"
-msgstr ""
+msgstr "mimada"
 
 msgid "spoiling"
-msgstr ""
+msgstr "estragar"
 
 msgid "spoils"
-msgstr ""
+msgstr "despojos"
 
 msgid "spoke"
-msgstr ""
+msgstr "falou"
 
 msgid "spoken"
-msgstr ""
+msgstr "falada"
 
 msgid "spokesman"
-msgstr ""
+msgstr "porta-voz"
 
 msgid "sponsor"
-msgstr ""
+msgstr "patrocinador"
 
 msgid "sponsored"
-msgstr ""
+msgstr "patrocinado"
 
 msgid "sponsoring"
-msgstr ""
+msgstr "patrocinando"
 
 msgid "sponsors"
-msgstr ""
+msgstr "patrocinadores"
 
 msgid "spontaneous"
-msgstr ""
+msgstr "espontânea"
 
 msgid "spontaneously"
-msgstr ""
+msgstr "espontaneamente"
 
 msgid "spoof"
-msgstr ""
+msgstr "paródia"
 
 msgid "spool"
-msgstr ""
+msgstr "carretel"
 
 msgid "sport"
-msgstr ""
+msgstr "esporte"
 
 msgid "sport's"
-msgstr ""
+msgstr "do esporte"
 
 msgid "sports"
-msgstr ""
+msgstr "esportes"
 
 msgid "spot"
-msgstr ""
+msgstr "Spot"
 
 msgid "spot's"
-msgstr ""
+msgstr "do ponto"
 
 msgid "spots"
-msgstr ""
+msgstr "manchas"
 
 msgid "spotted"
-msgstr ""
+msgstr "manchado"
 
 msgid "spotting"
-msgstr ""
+msgstr "spotting"
 
 msgid "spout"
-msgstr ""
+msgstr "bico"
 
 msgid "sprang"
-msgstr ""
+msgstr "Sprang"
 
 msgid "spray"
-msgstr ""
+msgstr "pulverizador"
 
 msgid "spread"
-msgstr ""
+msgstr "propagação"
 
 msgid "spread's"
-msgstr ""
+msgstr "do propagação"
 
 msgid "spreading"
-msgstr ""
+msgstr "espalhando"
 
 msgid "spreads"
-msgstr ""
+msgstr "espalha-se"
 
 msgid "spring"
-msgstr ""
+msgstr "Primavera"
 
 msgid "spring's"
-msgstr ""
+msgstr "a primavera"
 
 msgid "springing"
-msgstr ""
+msgstr "saltando"
 
 msgid "springs"
-msgstr ""
+msgstr "molas"
 
 msgid "sprung"
-msgstr ""
+msgstr "surgiu a"
 
 msgid "spur"
-msgstr ""
+msgstr "esporão"
 
 msgid "spurious"
-msgstr ""
+msgstr "espúria"
 
 msgid "spy"
-msgstr ""
+msgstr "espião"
 
 msgid "spy's"
-msgstr ""
+msgstr "do espião"
 
 msgid "squad"
-msgstr ""
+msgstr "Esquadrão"
 
 msgid "square"
-msgstr ""
+msgstr "Praça"
 
 msgid "square's"
-msgstr ""
+msgstr "do quadrado"
 
 msgid "squared"
-msgstr ""
+msgstr "ao quadrado"
 
 msgid "squares"
-msgstr ""
+msgstr "praças"
 
 msgid "squaring"
-msgstr ""
+msgstr "quadratura"
 
 msgid "squash"
-msgstr ""
+msgstr "squash"
 
 msgid "squashed"
-msgstr ""
+msgstr "esmagado"
 
 msgid "squashes"
-msgstr ""
+msgstr "abóboras"
 
 msgid "squashing"
-msgstr ""
+msgstr "caça aos bugs"
 
 msgid "squeeze"
-msgstr ""
+msgstr "squeeze"
 
 msgid "squeezed"
-msgstr ""
+msgstr "espremido"
 
 msgid "squeezes"
-msgstr ""
+msgstr "Squeezes"
 
 msgid "squeezing"
-msgstr ""
+msgstr "apertando"
 
 msgid "stability"
-msgstr ""
+msgstr "estabilidade"
 
 msgid "stable"
-msgstr ""
+msgstr "estável"
 
 msgid "stack"
-msgstr ""
+msgstr "pilha"
 
 msgid "stack's"
-msgstr ""
+msgstr "a pilha"
 
 msgid "stacks"
-msgstr ""
+msgstr "pilhas"
 
 msgid "staff"
-msgstr ""
+msgstr "pessoal"
 
 msgid "stage"
-msgstr ""
+msgstr "estágio"
 
 msgid "stage's"
-msgstr ""
+msgstr "do estágio"
 
 msgid "stages"
-msgstr ""
+msgstr "estágios"
 
 msgid "stagger"
-msgstr ""
+msgstr "escalonar"
 
 msgid "staggered"
-msgstr ""
+msgstr "escalonada"
 
 msgid "staggering"
-msgstr ""
+msgstr "escalonamento"
 
 msgid "staggers"
-msgstr ""
+msgstr "cambaleia"
 
 msgid "stair"
-msgstr ""
+msgstr "escada"
 
 msgid "stair's"
-msgstr ""
+msgstr "a escada"
 
 msgid "staircase"
-msgstr ""
+msgstr "escadaria"
 
 msgid "stairs"
-msgstr ""
+msgstr "escadas"
 
 msgid "stake"
-msgstr ""
+msgstr "estaca"
 
 msgid "stale"
-msgstr ""
+msgstr "velho"
 
 msgid "stall"
 msgstr "antes"
 
 msgid "stamp"
-msgstr ""
+msgstr "carimbo"
 
 msgid "stamp's"
-msgstr ""
+msgstr "do selo"
 
 msgid "stamped"
-msgstr ""
+msgstr "carimbado"
 
 msgid "stamping"
-msgstr ""
+msgstr "carimbo"
 
 msgid "stamps"
-msgstr ""
+msgstr "selos"
 
 msgid "stance"
-msgstr ""
+msgstr "postura"
 
 msgid "stand"
-msgstr ""
+msgstr "carrinho"
 
 msgid "stand's"
-msgstr ""
+msgstr "do carrinho"
 
 msgid "standard"
-msgstr ""
+msgstr "padrão"
 
 msgid "standard's"
-msgstr ""
+msgstr "do padrão"
 
 msgid "standardize"
-msgstr ""
+msgstr "padronizar"
 
 msgid "standardized"
-msgstr ""
+msgstr "padronizado"
 
 msgid "standardizes"
-msgstr ""
+msgstr "padroniza"
 
 msgid "standardizing"
-msgstr ""
+msgstr "a padronização"
 
 msgid "standards"
-msgstr ""
+msgstr "padrões"
 
 msgid "standing"
-msgstr ""
+msgstr "em pé"
 
 msgid "standpoint"
-msgstr ""
+msgstr "ponto de vista"
 
 msgid "stands"
-msgstr ""
+msgstr "carrinhos"
 
 msgid "star"
-msgstr ""
+msgstr "estrela"
 
 msgid "star's"
-msgstr ""
+msgstr "do estrela"
 
 msgid "stare"
-msgstr ""
+msgstr "olhar fixo"
 
 msgid "stared"
-msgstr ""
+msgstr "olhou"
 
 msgid "stares"
-msgstr ""
+msgstr "olhares"
 
 msgid "staring"
-msgstr ""
+msgstr "olhando para"
 
 msgid "stark"
-msgstr ""
+msgstr "Stark"
 
 msgid "starred"
-msgstr ""
+msgstr "estrelou"
 
 msgid "starring"
-msgstr ""
+msgstr "estrelando"
 
 msgid "stars"
-msgstr ""
+msgstr "estrelas"
 
 msgid "start"
-msgstr ""
+msgstr "início"
 
 msgid "start's"
-msgstr ""
+msgstr "do início"
 
 msgid "started"
-msgstr ""
+msgstr "começou"
 
 msgid "starter"
-msgstr ""
+msgstr "acionador de partida"
 
 msgid "starter's"
-msgstr ""
+msgstr "do acionador de partida"
 
 msgid "starters"
-msgstr ""
+msgstr "acionadores de partida"
 
 msgid "starting"
-msgstr ""
+msgstr "começando"
 
 msgid "startle"
-msgstr ""
+msgstr "assustar"
 
 msgid "startled"
-msgstr ""
+msgstr "assustou"
 
 msgid "startles"
-msgstr ""
+msgstr "assusta"
 
 msgid "startling"
-msgstr ""
+msgstr "uma surpreendente"
 
 msgid "starts"
-msgstr ""
+msgstr "começa"
 
 msgid "starve"
-msgstr ""
+msgstr "morrer de fome"
 
 msgid "starved"
-msgstr ""
+msgstr "faminto"
 
 msgid "starves"
-msgstr ""
+msgstr "morre de fome"
 
 msgid "starving"
-msgstr ""
+msgstr "morrendo de fome"
 
 msgid "state"
-msgstr ""
+msgstr "Estado"
 
 msgid "state's"
-msgstr ""
+msgstr "do estado"
 
 msgid "stated"
-msgstr ""
+msgstr "afirmou"
 
 msgid "statement"
-msgstr ""
+msgstr "declaração"
 
 msgid "statement's"
-msgstr ""
+msgstr "do declaração"
 
 msgid "statements"
-msgstr ""
+msgstr "declarações"
 
 msgid "states"
-msgstr ""
+msgstr "Estados-Membros"
 
 msgid "static"
-msgstr ""
+msgstr "estático"
 
 msgid "stating"
-msgstr ""
+msgstr "afirmando"
 
 msgid "station"
-msgstr ""
+msgstr "Estação"
 
 msgid "station's"
-msgstr ""
+msgstr "do estação"
 
 msgid "stationary"
-msgstr ""
+msgstr "estacionária"
 
 msgid "stations"
-msgstr ""
+msgstr "estações"
 
 msgid "statistic"
-msgstr ""
+msgstr "estatística"
 
 msgid "statistic's"
-msgstr ""
+msgstr "do estatística"
 
 msgid "statistical"
-msgstr ""
+msgstr "estatística"
 
 msgid "statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 msgid "status"
-msgstr ""
+msgstr "status"
 
 msgid "stay"
-msgstr ""
+msgstr "estadia"
 
 msgid "stay's"
-msgstr ""
+msgstr "a estadia"
 
 msgid "stayed"
-msgstr ""
+msgstr "ficou"
 
 msgid "staying"
-msgstr ""
+msgstr "ficar"
 
 msgid "stays"
-msgstr ""
+msgstr "estadias"
 
 msgid "steadily"
-msgstr ""
+msgstr "constantemente"
 
 msgid "steady"
 msgstr "constante"
 
 msgid "steal"
-msgstr ""
+msgstr "roubar"
 
 msgid "stealing"
-msgstr ""
+msgstr "roubar"
 
 msgid "steals"
-msgstr ""
+msgstr "rouba"
 
 msgid "steam"
-msgstr ""
+msgstr "vapor"
 
 msgid "steel"
-msgstr ""
+msgstr "aço"
 
 msgid "steep"
-msgstr ""
+msgstr "íngreme"
 
 msgid "steer"
-msgstr ""
+msgstr "boi"
 
 msgid "steer's"
-msgstr ""
+msgstr "do boi"
 
 msgid "steered"
-msgstr ""
+msgstr "direccionais"
 
 msgid "steering"
-msgstr ""
+msgstr "direção"
 
 msgid "steers"
-msgstr ""
+msgstr "novilhos"
 
 msgid "stem"
-msgstr ""
+msgstr "haste"
 
 msgid "stem's"
-msgstr ""
+msgstr "do tronco"
 
 msgid "stems"
-msgstr ""
+msgstr "hastes"
 
 msgid "step"
-msgstr ""
+msgstr "passo"
 
 msgid "step's"
-msgstr ""
+msgstr "do passo"
 
 msgid "stepped"
-msgstr ""
+msgstr "pisou"
 
 msgid "stepping"
-msgstr ""
+msgstr "pisando"
 
 msgid "steps"
-msgstr ""
+msgstr "passos"
 
 msgid "stereo"
-msgstr ""
+msgstr "estéreo"
 
 msgid "stereotype"
-msgstr ""
+msgstr "estereótipo"
 
 msgid "stereotype's"
-msgstr ""
+msgstr "do estereótipo"
 
 msgid "stereotypes"
-msgstr ""
+msgstr "estereótipos"
 
 msgid "sterile"
-msgstr ""
+msgstr "estéril"
 
 msgid "sterling"
-msgstr ""
+msgstr "Sterling"
 
 msgid "stick"
-msgstr ""
+msgstr "vara"
 
 msgid "stick's"
-msgstr ""
+msgstr "do vara"
 
 msgid "sticking"
-msgstr ""
+msgstr "furando"
 
 msgid "sticks"
-msgstr ""
+msgstr "varas"
 
 msgid "sticky"
-msgstr ""
+msgstr "pegajosa"
 
 msgid "stiff"
-msgstr ""
+msgstr "Stiff"
 
 msgid "still"
-msgstr ""
+msgstr "Ainda"
 
 msgid "stimulate"
-msgstr ""
+msgstr "estimular"
 
 msgid "stimulated"
-msgstr ""
+msgstr "estimulada"
 
 msgid "stimulates"
-msgstr ""
+msgstr "estimula a"
 
 msgid "stimulating"
-msgstr ""
+msgstr "estimulando"
 
 msgid "stimulation"
-msgstr ""
+msgstr "estimulação"
 
 msgid "stir"
-msgstr ""
+msgstr "agitar"
 
 msgid "stirred"
-msgstr ""
+msgstr "mexido"
 
 msgid "stirring"
-msgstr ""
+msgstr "mexendo"
 
 msgid "stirs"
-msgstr ""
+msgstr "se agita"
 
 msgid "stock"
-msgstr ""
+msgstr "estoque"
 
 msgid "stock's"
-msgstr ""
+msgstr "do estoque"
 
 msgid "stocks"
-msgstr ""
+msgstr "estoques"
 
 msgid "stole"
-msgstr ""
+msgstr "roubou"
 
 msgid "stolen"
-msgstr ""
+msgstr "roubado"
 
 msgid "stomach"
-msgstr ""
+msgstr "estômago"
 
 msgid "stone"
-msgstr ""
+msgstr "pedra"
 
 msgid "stone's"
-msgstr ""
+msgstr "do pedra"
 
 msgid "stones"
-msgstr ""
+msgstr "pedras"
 
 msgid "stood"
-msgstr ""
+msgstr "ficou"
 
 msgid "stop"
-msgstr ""
+msgstr "parar"
 
 msgid "stop's"
-msgstr ""
+msgstr "do batente"
 
 msgid "stopped"
-msgstr ""
+msgstr "parou"
 
 msgid "stopping"
-msgstr ""
+msgstr "parando"
 
 msgid "stops"
-msgstr ""
+msgstr "paragens"
 
 msgid "storage"
-msgstr ""
+msgstr "armazenamento"
 
 msgid "store"
-msgstr ""
+msgstr "loja"
 
 msgid "store's"
-msgstr ""
+msgstr "do loja"
 
 msgid "stored"
-msgstr ""
+msgstr "armazenados"
 
 msgid "stores"
-msgstr ""
+msgstr "lojas"
 
 msgid "stories"
-msgstr ""
+msgstr "histórias"
 
 msgid "storing"
-msgstr ""
+msgstr "armazenando"
 
 msgid "storm"
-msgstr ""
+msgstr "tempestade"
 
 msgid "storm's"
-msgstr ""
+msgstr "tempestade"
 
 msgid "storms"
-msgstr ""
+msgstr "tempestades"
 
 msgid "story"
-msgstr ""
+msgstr "história"
 
 msgid "story's"
-msgstr ""
+msgstr "história"
 
 msgid "straight"
-msgstr ""
+msgstr "em linha reta"
 
 msgid "straightforward"
-msgstr ""
+msgstr "simples"
 
 msgid "strain"
-msgstr ""
+msgstr "estirpe"
 
 msgid "strain's"
-msgstr ""
+msgstr "do cepa"
 
 msgid "strains"
-msgstr ""
+msgstr "cepas"
 
 msgid "strange"
-msgstr ""
+msgstr "estranho"
 
 msgid "strangely"
-msgstr ""
+msgstr "estranhamente"
 
 msgid "stranger"
-msgstr ""
+msgstr "estranho"
 
 msgid "strangest"
-msgstr ""
+msgstr "muito estranho"
 
 msgid "strategic"
-msgstr ""
+msgstr "estratégico"
 
 msgid "strategies"
-msgstr ""
+msgstr "estratégias"
 
 msgid "strategy"
-msgstr ""
+msgstr "estratégia"
 
 msgid "strategy's"
-msgstr ""
+msgstr "estratégia"
 
 msgid "straw"
-msgstr ""
+msgstr "palha"
 
 msgid "stray"
-msgstr ""
+msgstr "vira-lata"
 
 msgid "stream"
-msgstr ""
+msgstr "fluxo"
 
 msgid "stream's"
-msgstr ""
+msgstr "do fluxo"
 
 msgid "streams"
-msgstr ""
+msgstr "fluxos"
 
 msgid "street"
-msgstr ""
+msgstr "rua"
 
 msgid "street's"
-msgstr ""
+msgstr "do rua"
 
 msgid "streets"
-msgstr ""
+msgstr "ruas"
 
 msgid "strength"
-msgstr ""
+msgstr "força"
 
 msgid "strengthen"
-msgstr ""
+msgstr "reforçar a"
 
 msgid "stress"
-msgstr ""
+msgstr "stress"
 
 msgid "stress's"
-msgstr ""
+msgstr "do estresse"
 
 msgid "stressed"
-msgstr ""
+msgstr "estressado"
 
 msgid "stresses"
-msgstr ""
+msgstr "salienta"
 
 msgid "stressing"
-msgstr ""
+msgstr "salientando"
 
 msgid "stretch"
-msgstr ""
+msgstr "estiramento"
 
 msgid "stretched"
-msgstr ""
+msgstr "esticada"
 
 msgid "stretches"
-msgstr ""
+msgstr "estende-se"
 
 msgid "stretching"
-msgstr ""
+msgstr "alongamento"
 
 msgid "strict"
-msgstr ""
+msgstr "estrito"
 
 msgid "strictly"
-msgstr ""
+msgstr "estritamente"
 
 msgid "strike"
-msgstr ""
+msgstr "greve"
 
 msgid "strike's"
-msgstr ""
+msgstr "a greve"
 
 msgid "strikes"
-msgstr ""
+msgstr "greves"
 
 msgid "striking"
-msgstr ""
+msgstr "impressionante"
 
 msgid "string"
-msgstr ""
+msgstr "seqüência de caracteres"
 
 msgid "string's"
-msgstr ""
+msgstr "a seqüência de caracteres"
 
 msgid "stringent"
-msgstr ""
+msgstr "rigorosas"
 
 msgid "strings"
-msgstr ""
+msgstr "cadeias de caracteres"
 
 msgid "strip"
-msgstr ""
+msgstr "strip-tease"
 
 msgid "strip's"
-msgstr ""
+msgstr "do tira"
 
 msgid "stripped"
-msgstr ""
+msgstr "despojado"
 
 msgid "stripping"
-msgstr ""
+msgstr "descascamento"
 
 msgid "strips"
-msgstr ""
+msgstr "tiras"
 
 msgid "strive"
-msgstr ""
+msgstr "esforçar-se"
 
 msgid "stroke"
-msgstr ""
+msgstr "acidente vascular cerebral"
 
 msgid "strong"
-msgstr ""
+msgstr "forte"
 
 msgid "stronger"
-msgstr ""
+msgstr "mais forte"
 
 msgid "strongest"
-msgstr ""
+msgstr "mais forte"
 
 msgid "strongly"
-msgstr ""
+msgstr "fortemente"
 
 msgid "struck"
-msgstr ""
+msgstr "atingido"
 
 msgid "structural"
-msgstr ""
+msgstr "estruturais"
 
 msgid "structure"
-msgstr ""
+msgstr "estrutura"
 
 msgid "structure's"
-msgstr ""
+msgstr "estrutura"
 
 msgid "structured"
-msgstr ""
+msgstr "estruturado"
 
 msgid "structures"
-msgstr ""
+msgstr "estruturas"
 
 msgid "structuring"
-msgstr ""
+msgstr "estruturação"
 
 msgid "struggle"
-msgstr ""
+msgstr "luta"
 
 msgid "struggled"
-msgstr ""
+msgstr "esforçou-se"
 
 msgid "struggles"
-msgstr ""
+msgstr "lutas"
 
 msgid "struggling"
-msgstr ""
+msgstr "lutando"
 
 msgid "stuck"
-msgstr ""
+msgstr "preso"
 
 msgid "student"
-msgstr ""
+msgstr "estudante"
 
 msgid "student's"
-msgstr ""
+msgstr "do estudante"
 
 msgid "students"
-msgstr ""
+msgstr "alunos"
 
 msgid "studied"
-msgstr ""
+msgstr "estudou"
 
 msgid "studies"
-msgstr ""
+msgstr "estudos"
 
 msgid "studio"
-msgstr ""
+msgstr "Studio"
 
 msgid "study"
-msgstr ""
+msgstr "estudo"
 
 msgid "study's"
-msgstr ""
+msgstr "do estudo"
 
 msgid "studying"
-msgstr ""
+msgstr "estudando"
 
 msgid "stuff"
-msgstr ""
+msgstr "coisas"
 
 msgid "stuffed"
-msgstr ""
+msgstr "recheado"
 
 msgid "stuffing"
 msgstr "farsa"
 
 msgid "stuffs"
-msgstr ""
+msgstr "para animais"
 
 msgid "stumble"
-msgstr ""
+msgstr "Stumble"
 
 msgid "stumbled"
-msgstr ""
+msgstr "tropeçou"
 
 msgid "stumbles"
-msgstr ""
+msgstr "tropeça"
 
 msgid "stumbling"
-msgstr ""
+msgstr "tropeço"
 
 msgid "stun"
-msgstr ""
+msgstr "stun"
 
 msgid "stunned"
-msgstr ""
+msgstr "atordoado"
 
 msgid "stunning"
-msgstr ""
+msgstr "deslumbrante"
 
 msgid "stuns"
-msgstr ""
+msgstr "atordoa"
 
 msgid "stunt"
-msgstr ""
+msgstr "Stunt"
 
 msgid "stupid"
-msgstr ""
+msgstr "estúpido"
 
 msgid "stupidity"
-msgstr ""
+msgstr "estupidez"
 
 msgid "style"
-msgstr ""
+msgstr "estilo"
 
 msgid "style's"
-msgstr ""
+msgstr "do estilo"
 
 msgid "styles"
-msgstr ""
+msgstr "estilos"
 
 msgid "subject"
-msgstr ""
+msgstr "Assunto"
 
 msgid "subject's"
-msgstr ""
+msgstr "do assunto"
 
 msgid "subjected"
-msgstr ""
+msgstr "sujeitos"
 
 msgid "subjecting"
-msgstr ""
+msgstr "submetendo"
 
 msgid "subjective"
-msgstr ""
+msgstr "subjetiva"
 
 msgid "subjects"
-msgstr ""
+msgstr "Assuntos"
 
 msgid "submission"
-msgstr ""
+msgstr "apresentação"
 
 msgid "submit"
-msgstr ""
+msgstr "Enviar"
 
 msgid "submits"
-msgstr ""
+msgstr "submete"
 
 msgid "submitted"
-msgstr ""
+msgstr "enviado"
 
 msgid "submitting"
-msgstr ""
+msgstr "apresentação"
 
 msgid "subroutine"
-msgstr ""
+msgstr "sub-rotina"
 
 msgid "subroutine's"
-msgstr ""
+msgstr "a sub-rotina"
 
 msgid "subroutines"
-msgstr ""
+msgstr "sub-rotinas"
 
 msgid "subscribe"
-msgstr ""
+msgstr "Inscreva-se"
 
 msgid "subscription"
-msgstr ""
+msgstr "assinatura"
 
 msgid "subsequent"
-msgstr ""
+msgstr "subseqüentes"
 
 msgid "subsequently"
-msgstr ""
+msgstr "posteriormente"
 
 msgid "subset"
-msgstr ""
+msgstr "subconjunto"
 
 msgid "subsidiary"
-msgstr ""
+msgstr "subsidiária"
 
 msgid "subsidize"
-msgstr ""
+msgstr "subsidiar"
 
 msgid "subsidized"
-msgstr ""
+msgstr "subsidiado"
 
 msgid "subsidizes"
-msgstr ""
+msgstr "subsidia"
 
 msgid "subsidizing"
-msgstr ""
+msgstr "subsidiar"
 
 msgid "substance"
-msgstr ""
+msgstr "substância"
 
 msgid "substance's"
-msgstr ""
+msgstr "a substância"
 
 msgid "substances"
-msgstr ""
+msgstr "substâncias"
 
 msgid "substantial"
 msgstr ""

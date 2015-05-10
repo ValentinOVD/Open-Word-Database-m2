@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-10 02:00+0000\n"
+"PO-Revision-Date: 2015-05-10 03:10+0000\n"
 "Last-Translator: Maycon Amaro\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/database/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -32737,220 +32737,220 @@ msgid "substances"
 msgstr "substâncias"
 
 msgid "substantial"
-msgstr ""
+msgstr "substancial"
 
 msgid "substantially"
-msgstr ""
+msgstr "substancialmente"
 
 msgid "substitute"
-msgstr ""
+msgstr "Membro suplente"
 
 msgid "substituted"
-msgstr ""
+msgstr "substituído"
 
 msgid "substitutes"
-msgstr ""
+msgstr "substitutos"
 
 msgid "substituting"
-msgstr ""
+msgstr "substituindo"
 
 msgid "substitution"
-msgstr ""
+msgstr "substituição"
 
 msgid "subtle"
-msgstr ""
+msgstr "sutil"
 
 msgid "subtleties"
-msgstr ""
+msgstr "sutilezas"
 
 msgid "subtlety"
-msgstr ""
+msgstr "sutileza"
 
 msgid "subtlety's"
-msgstr ""
+msgstr "sutileza"
 
 msgid "subtly"
-msgstr ""
+msgstr "sutilmente"
 
 msgid "subway"
-msgstr ""
+msgstr "metrô"
 
 msgid "subway's"
-msgstr ""
+msgstr "do metrô"
 
 msgid "subways"
-msgstr ""
+msgstr "metrôs"
 
 msgid "succeed"
-msgstr ""
+msgstr "ter sucesso"
 
 msgid "succeeded"
-msgstr ""
+msgstr "sucedeu"
 
 msgid "succeeding"
-msgstr ""
+msgstr "sucedendo"
 
 msgid "succeeds"
-msgstr ""
+msgstr "sucede"
 
 msgid "success"
-msgstr ""
+msgstr "sucesso"
 
 msgid "successful"
-msgstr ""
+msgstr "bem sucedido"
 
 msgid "successfully"
-msgstr ""
+msgstr "com sucesso"
 
 msgid "succession"
-msgstr ""
+msgstr "sucessão"
 
 msgid "successive"
-msgstr ""
+msgstr "sucessivas"
 
 msgid "successor"
-msgstr ""
+msgstr "sucessor"
 
 msgid "such"
 msgstr "amanhecer"
 
 msgid "sudden"
-msgstr ""
+msgstr "súbita"
 
 msgid "suddenly"
-msgstr ""
+msgstr "de repente"
 
 msgid "sue"
-msgstr ""
+msgstr "Sue"
 
 msgid "sued"
-msgstr ""
+msgstr "processado"
 
 msgid "sues"
-msgstr ""
+msgstr "sues"
 
 msgid "suffer"
-msgstr ""
+msgstr "sofrer"
 
 msgid "suffered"
-msgstr ""
+msgstr "sofreu"
 
 msgid "sufferer"
-msgstr ""
+msgstr "sofredor"
 
 msgid "sufferer's"
-msgstr ""
+msgstr "do sofredor"
 
 msgid "sufferers"
-msgstr ""
+msgstr "sofredores"
 
 msgid "suffering"
-msgstr ""
+msgstr "sofrendo"
 
 msgid "suffers"
-msgstr ""
+msgstr "sofre"
 
 msgid "suffice"
-msgstr ""
+msgstr "é suficiente"
 
 msgid "sufficient"
-msgstr ""
+msgstr "suficiente"
 
 msgid "sufficiently"
-msgstr ""
+msgstr "suficientemente"
 
 msgid "suffix"
-msgstr ""
+msgstr "sufixo"
 
 msgid "sugar"
-msgstr ""
+msgstr "açúcar"
 
 msgid "suggest"
-msgstr ""
+msgstr "sugerir"
 
 msgid "suggested"
-msgstr ""
+msgstr "sugeriu"
 
 msgid "suggesting"
-msgstr ""
+msgstr "sugerindo"
 
 msgid "suggestion"
-msgstr ""
+msgstr "sugestão"
 
 msgid "suggestion's"
-msgstr ""
+msgstr "sugestão"
 
 msgid "suggestions"
-msgstr ""
+msgstr "sugestões"
 
 msgid "suggests"
-msgstr ""
+msgstr "sugere"
 
 msgid "suicidal"
-msgstr ""
+msgstr "suicida"
 
 msgid "suicide"
-msgstr ""
+msgstr "suicídio"
 
 msgid "suing"
-msgstr ""
+msgstr "Processando"
 
 msgid "suit"
-msgstr ""
+msgstr "terno"
 
 msgid "suit's"
-msgstr ""
+msgstr "do terno"
 
 msgid "suitability"
-msgstr ""
+msgstr "adequação"
 
 msgid "suitable"
-msgstr ""
+msgstr "adequado"
 
 msgid "suitably"
-msgstr ""
+msgstr "devidamente"
 
 msgid "suite"
-msgstr ""
+msgstr "suíte"
 
 msgid "suited"
-msgstr ""
+msgstr "adequado"
 
 msgid "suiting"
-msgstr ""
+msgstr "servidão"
 
 msgid "suits"
-msgstr ""
+msgstr "ternos"
 
 msgid "sum"
-msgstr ""
+msgstr "soma"
 
 msgid "sum's"
-msgstr ""
+msgstr "soma"
 
 msgid "summaries"
-msgstr ""
+msgstr "resumos"
 
 msgid "summarize"
-msgstr ""
+msgstr "resumir"
 
 msgid "summarized"
-msgstr ""
+msgstr "resumido"
 
 msgid "summarizes"
-msgstr ""
+msgstr "resume"
 
 msgid "summarizing"
-msgstr ""
+msgstr "Resumindo"
 
 msgid "summary"
-msgstr ""
+msgstr "Resumo"
 
 msgid "summary's"
-msgstr ""
+msgstr "do Resumo"
 
 msgid "summed"
-msgstr ""
+msgstr "resumiu"
 
 msgid "summer"
 msgstr "imobiliária"
@@ -32959,70 +32959,70 @@ msgid "summing"
 msgstr "livro"
 
 msgid "sums"
-msgstr ""
+msgstr "somas"
 
 msgid "sun"
-msgstr ""
+msgstr "sol"
 
 msgid "sundry"
-msgstr ""
+msgstr "sundry"
 
 msgid "sung"
-msgstr ""
+msgstr "cantada"
 
 msgid "sunk"
-msgstr ""
+msgstr "afundado"
 
 msgid "sunlight"
-msgstr ""
+msgstr "luz do sol"
 
 msgid "sunny"
-msgstr ""
+msgstr "ensolarado"
 
 msgid "sunrise"
-msgstr ""
+msgstr "nascer do sol"
 
 msgid "sunshine"
-msgstr ""
+msgstr "raio de sol"
 
 msgid "super"
-msgstr ""
+msgstr "Super"
 
 msgid "superb"
-msgstr ""
+msgstr "soberba"
 
 msgid "superficial"
-msgstr ""
+msgstr "superficial"
 
 msgid "superficially"
-msgstr ""
+msgstr "superficialmente"
 
 msgid "superfluous"
-msgstr ""
+msgstr "supérfluo"
 
 msgid "superior"
-msgstr ""
+msgstr "superior"
 
 msgid "superiority"
-msgstr ""
+msgstr "superioridade"
 
 msgid "supermarket"
-msgstr ""
+msgstr "supermercado"
 
 msgid "supernatural"
-msgstr ""
+msgstr "sobrenatural"
 
 msgid "supervise"
-msgstr ""
+msgstr "supervisionar"
 
 msgid "supervised"
-msgstr ""
+msgstr "supervisionado"
 
 msgid "supervises"
-msgstr ""
+msgstr "supervisiona"
 
 msgid "supervising"
-msgstr ""
+msgstr "supervisão"
 
 msgid "supervision"
 msgstr ""

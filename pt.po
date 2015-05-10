@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-10 17:59+0000\n"
+"PO-Revision-Date: 2015-05-10 18:42+0000\n"
 "Last-Translator: Maycon Amaro\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/database/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -409,7 +409,7 @@ msgid "accustoms"
 msgstr "acostuma-se"
 
 msgid "ace"
-msgstr "Ace"
+msgstr "craque"
 
 msgid "achieve"
 msgstr "alcançar"
@@ -418,19 +418,19 @@ msgid "achieved"
 msgstr "alcançado"
 
 msgid "achievement"
-msgstr "realização"
+msgstr "conquista"
 
 msgid "achievement's"
-msgstr "realização"
+msgstr "da conquista"
 
 msgid "achievements"
-msgstr "realizações"
+msgstr "conquistas"
 
 msgid "achieves"
 msgstr "alcança"
 
 msgid "achieving"
-msgstr "realização"
+msgstr "conquistando"
 
 msgid "acid"
 msgstr "ácido"
@@ -445,7 +445,7 @@ msgid "acknowledges"
 msgstr "reconhece"
 
 msgid "acknowledging"
-msgstr "Reconhecendo"
+msgstr "reconhecendo"
 
 msgid "acorn"
 msgstr "bolota"
@@ -454,7 +454,7 @@ msgid "acoustic"
 msgstr "acústico"
 
 msgid "acquaintance"
-msgstr "conhecido"
+msgstr "conhecimento"
 
 msgid "acquire"
 msgstr "adquirir"
@@ -466,7 +466,7 @@ msgid "acquires"
 msgstr "adquire"
 
 msgid "acquiring"
-msgstr "aquisição de"
+msgstr "adquirindo"
 
 msgid "acquisition"
 msgstr "aquisição"
@@ -481,10 +481,10 @@ msgid "acronyms"
 msgstr "acrônimos"
 
 msgid "across"
-msgstr "do outro lado"
+msgstr "através de"
 
 msgid "act"
-msgstr "ato"
+msgstr "agir"
 
 msgid "act's"
 msgstr "do ato"
@@ -499,7 +499,7 @@ msgid "action"
 msgstr "ação"
 
 msgid "action's"
-msgstr "ação"
+msgstr "da ação"
 
 msgid "actions"
 msgstr "ações"
@@ -514,7 +514,7 @@ msgid "activates"
 msgstr "ativa"
 
 msgid "activating"
-msgstr "Ativando"
+msgstr "ativando"
 
 msgid "active"
 msgstr "ativo"
@@ -529,7 +529,7 @@ msgid "activity"
 msgstr "atividade"
 
 msgid "activity's"
-msgstr "atividade"
+msgstr "da atividade"
 
 msgid "actor"
 msgstr "ator"
@@ -571,13 +571,13 @@ msgid "adapts"
 msgstr "adapta-se"
 
 msgid "add"
-msgstr "Adicionar"
+msgstr "adicionar"
 
 msgid "added"
 msgstr "adicionado"
 
 msgid "addict"
-msgstr "viciado em"
+msgstr "viciado"
 
 msgid "addicted"
 msgstr "viciado"
@@ -589,7 +589,7 @@ msgid "addictive"
 msgstr "viciante"
 
 msgid "addicts"
-msgstr "viciados em"
+msgstr "viciados"
 
 msgid "adding"
 msgstr "adicionando"
@@ -598,25 +598,25 @@ msgid "addition"
 msgstr "adição"
 
 msgid "addition's"
-msgstr "adição"
+msgstr "da adição"
 
 msgid "additional"
-msgstr "adicionais"
+msgstr "adicional"
 
 msgid "additionally"
-msgstr "Além disso"
+msgstr "adicionalmente"
 
 msgid "additions"
 msgstr "adições"
 
 msgid "address"
-msgstr "Endereço"
+msgstr "endereço"
 
 msgid "address's"
 msgstr "do endereço"
 
 msgid "addressed"
-msgstr "abordadas"
+msgstr "endereçado"
 
 msgid "addresses"
 msgstr "endereços"

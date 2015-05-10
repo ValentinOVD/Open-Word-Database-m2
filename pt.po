@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-09 23:00+0000\n"
+"PO-Revision-Date: 2015-05-10 00:00+0000\n"
 "Last-Translator: Maycon Amaro\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/database/language/pt/)\n"
 "MIME-Version: 1.0\n"
@@ -27100,2155 +27100,2155 @@ msgid "rating"
 msgstr "classificação"
 
 msgid "ratio"
-msgstr ""
+msgstr "rácio"
 
 msgid "ratio's"
-msgstr ""
+msgstr "do rácio"
 
 msgid "rational"
-msgstr ""
+msgstr "racional"
 
 msgid "rationale"
-msgstr ""
+msgstr "lógica"
 
 msgid "rationally"
-msgstr ""
+msgstr "racionalmente"
 
 msgid "ratios"
-msgstr ""
+msgstr "rácios"
 
 msgid "rats"
-msgstr ""
+msgstr "ratos"
 
 msgid "rattle"
-msgstr ""
+msgstr "chocalho"
 
 msgid "rattled"
-msgstr ""
+msgstr "sacudiu"
 
 msgid "rattles"
-msgstr ""
+msgstr "chocalhos"
 
 msgid "rattling"
-msgstr ""
+msgstr "chocalho"
 
 msgid "rave"
-msgstr ""
+msgstr "rave"
 
 msgid "raved"
-msgstr ""
+msgstr "delirou"
 
 msgid "raves"
-msgstr ""
+msgstr "raves"
 
 msgid "raving"
-msgstr ""
+msgstr "delirando"
 
 msgid "raw"
-msgstr ""
+msgstr "cru"
 
 msgid "ray"
-msgstr ""
+msgstr "Ray"
 
 msgid "razor"
-msgstr ""
+msgstr "Razor"
 
 msgid "re"
-msgstr ""
+msgstr "Re"
 
 msgid "reach"
-msgstr ""
+msgstr "alcance"
 
 msgid "reach's"
-msgstr ""
+msgstr "do alcance"
 
 msgid "reached"
-msgstr ""
+msgstr "alcançado"
 
 msgid "reaches"
-msgstr ""
+msgstr "atinge"
 
 msgid "reaching"
-msgstr ""
+msgstr "atingindo"
 
 msgid "react"
-msgstr ""
+msgstr "reagir"
 
 msgid "reacted"
-msgstr ""
+msgstr "reagiu"
 
 msgid "reacting"
-msgstr ""
+msgstr "reagindo"
 
 msgid "reaction"
-msgstr ""
+msgstr "reação"
 
 msgid "reaction's"
-msgstr ""
+msgstr "reação"
 
 msgid "reactionary"
-msgstr ""
+msgstr "reacionário"
 
 msgid "reactions"
-msgstr ""
+msgstr "reações"
 
 msgid "reactor"
-msgstr ""
+msgstr "reator"
 
 msgid "reacts"
-msgstr ""
+msgstr "reage"
 
 msgid "read"
-msgstr ""
+msgstr "ler"
 
 msgid "read's"
-msgstr ""
+msgstr "leitura"
 
 msgid "readable"
-msgstr ""
+msgstr "legível"
 
 msgid "reader"
-msgstr ""
+msgstr "leitor"
 
 msgid "reader's"
-msgstr ""
+msgstr "do leitor"
 
 msgid "readers"
-msgstr ""
+msgstr "leitores"
 
 msgid "readership"
-msgstr ""
+msgstr "leitores"
 
 msgid "readily"
-msgstr ""
+msgstr "prontamente"
 
 msgid "reading"
-msgstr ""
+msgstr "leitura"
 
 msgid "reading's"
-msgstr ""
+msgstr "leitura"
 
 msgid "readings"
-msgstr ""
+msgstr "leituras"
 
 msgid "reads"
-msgstr ""
+msgstr "leituras"
 
 msgid "ready"
-msgstr ""
+msgstr "Pronto"
 
 msgid "real"
-msgstr ""
+msgstr "real"
 
 msgid "realistic"
-msgstr ""
+msgstr "realista"
 
 msgid "reality"
-msgstr ""
+msgstr "realidade"
 
 msgid "realization"
-msgstr ""
+msgstr "realização"
 
 msgid "realize"
-msgstr ""
+msgstr "perceber"
 
 msgid "realized"
-msgstr ""
+msgstr "percebi"
 
 msgid "realizes"
-msgstr ""
+msgstr "percebe"
 
 msgid "realizing"
-msgstr ""
+msgstr "percebendo"
 
 msgid "really"
-msgstr ""
+msgstr "realmente"
 
 msgid "realm"
-msgstr ""
+msgstr "Reino"
 
 msgid "realm's"
-msgstr ""
+msgstr "do Reino"
 
 msgid "realms"
-msgstr ""
+msgstr "reinos"
 
 msgid "rear"
-msgstr ""
+msgstr "traseira"
 
 msgid "rearrange"
-msgstr ""
+msgstr "reorganizar"
 
 msgid "rearranged"
-msgstr ""
+msgstr "reorganizados"
 
 msgid "rearranges"
-msgstr ""
+msgstr "Reorganiza"
 
 msgid "rearranging"
-msgstr ""
+msgstr "reorganizando"
 
 msgid "reason"
-msgstr ""
+msgstr "razão"
 
 msgid "reason's"
-msgstr ""
+msgstr "razão"
 
 msgid "reasonable"
-msgstr ""
+msgstr "razoável"
 
 msgid "reasonably"
-msgstr ""
+msgstr "razoavelmente"
 
 msgid "reasoned"
-msgstr ""
+msgstr "fundamentado"
 
 msgid "reasoning"
-msgstr ""
+msgstr "raciocínio"
 
 msgid "reasons"
-msgstr ""
+msgstr "razões"
 
 msgid "reassure"
-msgstr ""
+msgstr "tranquilizar"
 
 msgid "reassured"
-msgstr ""
+msgstr "tranquilizado"
 
 msgid "reassures"
-msgstr ""
+msgstr "tranquiliza"
 
 msgid "reassuring"
-msgstr ""
+msgstr "tranquilizador"
 
 msgid "rebuild"
-msgstr ""
+msgstr "reconstruir"
 
 msgid "rebuilding"
-msgstr ""
+msgstr "reconstrução"
 
 msgid "rebuilds"
-msgstr ""
+msgstr "recria"
 
 msgid "rebuilt"
-msgstr ""
+msgstr "reconstruído"
 
 msgid "recall"
-msgstr ""
+msgstr "Lembre-se"
 
 msgid "recalled"
-msgstr ""
+msgstr "recorda-se"
 
 msgid "recalling"
-msgstr ""
+msgstr "Recordando"
 
 msgid "recalls"
-msgstr ""
+msgstr "recorda"
 
 msgid "receipt"
-msgstr ""
+msgstr "recibo"
 
 msgid "receive"
-msgstr ""
+msgstr "receber"
 
 msgid "received"
-msgstr ""
+msgstr "recebido"
 
 msgid "receiver"
-msgstr ""
+msgstr "receptor"
 
 msgid "receives"
-msgstr ""
+msgstr "recebe"
 
 msgid "receiving"
-msgstr ""
+msgstr "recebendo"
 
 msgid "recent"
-msgstr ""
+msgstr "recentes"
 
 msgid "recently"
-msgstr ""
+msgstr "recentemente"
 
 msgid "reception"
-msgstr ""
+msgstr "recepção"
 
 msgid "recipe"
-msgstr ""
+msgstr "receita"
 
 msgid "recipe's"
-msgstr ""
+msgstr "do receita"
 
 msgid "recipes"
-msgstr ""
+msgstr "receitas"
 
 msgid "recipient"
-msgstr ""
+msgstr "destinatário"
 
 msgid "recipient's"
-msgstr ""
+msgstr "do destinatário"
 
 msgid "recipients"
-msgstr ""
+msgstr "destinatários"
 
 msgid "reckless"
-msgstr ""
+msgstr "imprudente"
 
 msgid "reckon"
-msgstr ""
+msgstr "Acho que"
 
 msgid "reckoned"
-msgstr ""
+msgstr "contada"
 
 msgid "reckoning"
-msgstr ""
+msgstr "acerto de contas"
 
 msgid "reckons"
-msgstr ""
+msgstr "onde diz"
 
 msgid "reclaim"
-msgstr ""
+msgstr "recuperar"
 
 msgid "recognition"
-msgstr ""
+msgstr "reconhecimento"
 
 msgid "recognizable"
-msgstr ""
+msgstr "reconhecível"
 
 msgid "recognize"
-msgstr ""
+msgstr "reconhecer"
 
 msgid "recognized"
-msgstr ""
+msgstr "reconhecido"
 
 msgid "recognizes"
-msgstr ""
+msgstr "reconhece"
 
 msgid "recognizing"
-msgstr ""
+msgstr "Reconhecendo"
 
 msgid "recollection"
-msgstr ""
+msgstr "lembrança"
 
 msgid "recommend"
-msgstr ""
+msgstr "Recomendar"
 
 msgid "recommendation"
-msgstr ""
+msgstr "recomendação"
 
 msgid "recommendation's"
-msgstr ""
+msgstr "do recomendação"
 
 msgid "recommendations"
-msgstr ""
+msgstr "recomendações"
 
 msgid "recommended"
-msgstr ""
+msgstr "recomendado"
 
 msgid "recommending"
-msgstr ""
+msgstr "recomendar"
 
 msgid "recommends"
-msgstr ""
+msgstr "recomenda"
 
 msgid "reconcile"
-msgstr ""
+msgstr "conciliar"
 
 msgid "reconsider"
-msgstr ""
+msgstr "reconsiderar"
 
 msgid "record"
-msgstr ""
+msgstr "registro"
 
 msgid "record's"
-msgstr ""
+msgstr "do registro"
 
 msgid "recorded"
-msgstr ""
+msgstr "gravado"
 
 msgid "recorder"
-msgstr ""
+msgstr "gravador de"
 
 msgid "recording"
-msgstr ""
+msgstr "gravação"
 
 msgid "recording's"
-msgstr ""
+msgstr "do gravação"
 
 msgid "recordings"
-msgstr ""
+msgstr "gravações"
 
 msgid "records"
-msgstr ""
+msgstr "registros"
 
 msgid "recover"
-msgstr ""
+msgstr "recuperar"
 
 msgid "recovered"
-msgstr ""
+msgstr "recuperado"
 
 msgid "recovering"
-msgstr ""
+msgstr "Recuperando-se"
 
 msgid "recovers"
-msgstr ""
+msgstr "Recupera"
 
 msgid "recovery"
-msgstr ""
+msgstr "recuperação"
 
 msgid "recreational"
-msgstr ""
+msgstr "recreativas"
 
 msgid "recruit"
-msgstr ""
+msgstr "recruta"
 
 msgid "recruited"
-msgstr ""
+msgstr "recrutados"
 
 msgid "recruiting"
-msgstr ""
+msgstr "recrutamento"
 
 msgid "recruitment"
-msgstr ""
+msgstr "recrutamento"
 
 msgid "recruits"
-msgstr ""
+msgstr "recrutas"
 
 msgid "rectangle"
-msgstr ""
+msgstr "retângulo"
 
 msgid "rectangular"
-msgstr ""
+msgstr "retangular"
 
 msgid "rectified"
-msgstr ""
+msgstr "retificado"
 
 msgid "rectifies"
-msgstr ""
+msgstr "retifica"
 
 msgid "rectify"
-msgstr ""
+msgstr "retificar"
 
 msgid "rectifying"
-msgstr ""
+msgstr "retificando"
 
 msgid "recursion"
-msgstr ""
+msgstr "recursão"
 
 msgid "recursive"
-msgstr ""
+msgstr "recursiva"
 
 msgid "recycle"
-msgstr ""
+msgstr "reciclar"
 
 msgid "recycled"
-msgstr ""
+msgstr "reciclado"
 
 msgid "recycles"
-msgstr ""
+msgstr "recicla"
 
 msgid "recycling"
-msgstr ""
+msgstr "reciclagem"
 
 msgid "red"
-msgstr ""
+msgstr "vermelho"
 
 msgid "redefine"
-msgstr ""
+msgstr "redefinir"
 
 msgid "redefined"
-msgstr ""
+msgstr "redefinido"
 
 msgid "redefines"
-msgstr ""
+msgstr "Redefine"
 
 msgid "redefining"
-msgstr ""
+msgstr "Redefinindo"
 
 msgid "redirect"
-msgstr ""
+msgstr "redirecionar"
 
 msgid "reduce"
-msgstr ""
+msgstr "reduzir"
 
 msgid "reduced"
-msgstr ""
+msgstr "reduzido"
 
 msgid "reduces"
-msgstr ""
+msgstr "reduz"
 
 msgid "reducing"
-msgstr ""
+msgstr "redução"
 
 msgid "reduction"
-msgstr ""
+msgstr "redução"
 
 msgid "reduction's"
-msgstr ""
+msgstr "do redução"
 
 msgid "reductions"
-msgstr ""
+msgstr "reduções"
 
 msgid "redundancy"
-msgstr ""
+msgstr "redundância"
 
 msgid "redundant"
-msgstr ""
+msgstr "redundante"
 
 msgid "refer"
-msgstr ""
+msgstr "referem-se"
 
 msgid "reference"
-msgstr ""
+msgstr "referência"
 
 msgid "reference's"
-msgstr ""
+msgstr "do referência"
 
 msgid "referenced"
-msgstr ""
+msgstr "referenciado"
 
 msgid "references"
-msgstr ""
+msgstr "referências"
 
 msgid "referencing"
-msgstr ""
+msgstr "referenciando"
 
 msgid "referendum"
-msgstr ""
+msgstr "referendo"
 
 msgid "referred"
-msgstr ""
+msgstr "que se refere"
 
 msgid "referring"
-msgstr ""
+msgstr "referindo-se"
 
 msgid "refers"
-msgstr ""
+msgstr "refere-se"
 
 msgid "refine"
-msgstr ""
+msgstr "refinar"
 
 msgid "refined"
-msgstr ""
+msgstr "refinado"
 
 msgid "refines"
-msgstr ""
+msgstr "refina"
 
 msgid "refining"
-msgstr ""
+msgstr "refinação"
 
 msgid "reflect"
-msgstr ""
+msgstr "refletir"
 
 msgid "reflected"
-msgstr ""
+msgstr "refletido"
 
 msgid "reflecting"
-msgstr ""
+msgstr "refletindo"
 
 msgid "reflection"
-msgstr ""
+msgstr "reflexão"
 
 msgid "reflects"
-msgstr ""
+msgstr "reflete"
 
 msgid "reflex"
-msgstr ""
+msgstr "reflexo"
 
 msgid "reform"
-msgstr ""
+msgstr "reforma"
 
 msgid "reform's"
-msgstr ""
+msgstr "do reforma"
 
 msgid "reformat"
-msgstr ""
+msgstr "reformatar"
 
 msgid "reformed"
-msgstr ""
+msgstr "reformada"
 
 msgid "reforming"
-msgstr ""
+msgstr "reforma"
 
 msgid "reforms"
-msgstr ""
+msgstr "reformas"
 
 msgid "refrain"
-msgstr ""
+msgstr "abster-se"
 
 msgid "refresh"
-msgstr ""
+msgstr "atualização"
 
 msgid "refreshed"
-msgstr ""
+msgstr "atualizado"
 
 msgid "refreshes"
-msgstr ""
+msgstr "atualiza"
 
 msgid "refreshing"
-msgstr ""
+msgstr "refrescante"
 
 msgid "refund"
-msgstr ""
+msgstr "restituição"
 
 msgid "refusal"
-msgstr ""
+msgstr "recusa"
 
 msgid "refuse"
-msgstr ""
+msgstr "recusar"
 
 msgid "refused"
-msgstr ""
+msgstr "recusou-se"
 
 msgid "refuses"
-msgstr ""
+msgstr "recusa-se"
 
 msgid "refusing"
-msgstr ""
+msgstr "recusando-se"
 
 msgid "refute"
-msgstr ""
+msgstr "refutar"
 
 msgid "regain"
-msgstr ""
+msgstr "recuperar"
 
 msgid "regard"
-msgstr ""
+msgstr "em conta"
 
 msgid "regarded"
-msgstr ""
+msgstr "considerado"
 
 msgid "regarding"
-msgstr ""
+msgstr "no que respeita"
 
 msgid "regardless"
-msgstr ""
+msgstr "de qualquer maneira"
 
 msgid "regards"
-msgstr ""
+msgstr "cumprimentos"
 
 msgid "regime"
-msgstr ""
+msgstr "regime de"
 
 msgid "region"
-msgstr ""
+msgstr "região"
 
 msgid "region's"
-msgstr ""
+msgstr "região"
 
 msgid "regional"
-msgstr ""
+msgstr "regional"
 
 msgid "regions"
-msgstr ""
+msgstr "regiões"
 
 msgid "register"
-msgstr ""
+msgstr "Registre-se"
 
 msgid "register's"
-msgstr ""
+msgstr "do registo"
 
 msgid "registered"
-msgstr ""
+msgstr "registrado"
 
 msgid "registering"
-msgstr ""
+msgstr "registrando"
 
 msgid "registers"
-msgstr ""
+msgstr "registra"
 
 msgid "registration"
-msgstr ""
+msgstr "registo"
 
 msgid "regret"
-msgstr ""
+msgstr "me arrependo"
 
 msgid "regrets"
-msgstr ""
+msgstr "arrependimentos"
 
 msgid "regrettably"
-msgstr ""
+msgstr "Lamentavelmente"
 
 msgid "regretted"
-msgstr ""
+msgstr "me arrependi"
 
 msgid "regretting"
-msgstr ""
+msgstr "lamentando"
 
 msgid "regular"
-msgstr ""
+msgstr "regular"
 
 msgid "regularly"
-msgstr ""
+msgstr "regularmente"
 
 msgid "regulation"
-msgstr ""
+msgstr "Regulamento"
 
 msgid "regulation's"
-msgstr ""
+msgstr "do Regulamento"
 
 msgid "regulations"
-msgstr ""
+msgstr "regulamentos"
 
 msgid "reign"
-msgstr ""
+msgstr "reinado"
 
 msgid "reinstate"
-msgstr ""
+msgstr "reintegrar"
 
 msgid "reinstated"
-msgstr ""
+msgstr "reintegrado"
 
 msgid "reinstates"
-msgstr ""
+msgstr "reabilita"
 
 msgid "reinstating"
-msgstr ""
+msgstr "reintegrá-"
 
 msgid "reiterate"
-msgstr ""
+msgstr "reiterar"
 
 msgid "reject"
-msgstr ""
+msgstr "rejeitar"
 
 msgid "reject's"
-msgstr ""
+msgstr "rejeição"
 
 msgid "rejected"
-msgstr ""
+msgstr "rejeitado"
 
 msgid "rejecting"
-msgstr ""
+msgstr "rejeitando"
 
 msgid "rejection"
-msgstr ""
+msgstr "rejeição"
 
 msgid "rejects"
-msgstr ""
+msgstr "rejeita"
 
 msgid "relate"
-msgstr ""
+msgstr "se relacionam"
 
 msgid "related"
-msgstr ""
+msgstr "relacionados"
 
 msgid "relates"
-msgstr ""
+msgstr "refere-se"
 
 msgid "relating"
-msgstr ""
+msgstr "relativas"
 
 msgid "relation"
-msgstr ""
+msgstr "relação"
 
 msgid "relation's"
-msgstr ""
+msgstr "do relação"
 
 msgid "relations"
-msgstr ""
+msgstr "relações"
 
 msgid "relationship"
-msgstr ""
+msgstr "relação"
 
 msgid "relationship's"
-msgstr ""
+msgstr "do relacionamento"
 
 msgid "relationships"
-msgstr ""
+msgstr "relacionamentos"
 
 msgid "relative"
-msgstr ""
+msgstr "relativo"
 
 msgid "relative's"
-msgstr ""
+msgstr "do parente"
 
 msgid "relatively"
-msgstr ""
+msgstr "relativamente"
 
 msgid "relatives"
-msgstr ""
+msgstr "parentes"
 
 msgid "relativity"
-msgstr ""
+msgstr "relatividade"
 
 msgid "relax"
-msgstr ""
+msgstr "Relaxe"
 
 msgid "relaxed"
-msgstr ""
+msgstr "relaxado"
 
 msgid "relaxes"
-msgstr ""
+msgstr "Relaxa"
 
 msgid "relaxing"
-msgstr ""
+msgstr "relaxante"
 
 msgid "relay"
-msgstr ""
+msgstr "relé"
 
 msgid "release"
-msgstr ""
+msgstr "lançamento"
 
 msgid "release's"
-msgstr ""
+msgstr "do lançamento"
 
 msgid "released"
-msgstr ""
+msgstr "lançado"
 
 msgid "releases"
-msgstr ""
+msgstr "lançamentos"
 
 msgid "releasing"
-msgstr ""
+msgstr "liberando"
 
 msgid "relevance"
-msgstr ""
+msgstr "relevância"
 
 msgid "relevant"
-msgstr ""
+msgstr "relevantes"
 
 msgid "reliability"
-msgstr ""
+msgstr "confiabilidade"
 
 msgid "reliable"
-msgstr ""
+msgstr "confiável"
 
 msgid "reliably"
-msgstr ""
+msgstr "confiantemente"
 
 msgid "relied"
-msgstr ""
+msgstr "baseou-se"
 
 msgid "relief"
-msgstr ""
+msgstr "alívio"
 
 msgid "relies"
-msgstr ""
+msgstr "baseia-se"
 
 msgid "relieve"
-msgstr ""
+msgstr "aliviar"
 
 msgid "relieved"
-msgstr ""
+msgstr "aliviado"
 
 msgid "relieves"
-msgstr ""
+msgstr "alivia"
 
 msgid "relieving"
-msgstr ""
+msgstr "aliviando"
 
 msgid "religion"
-msgstr ""
+msgstr "religião"
 
 msgid "religion's"
-msgstr ""
+msgstr "a religião"
 
 msgid "religions"
-msgstr ""
+msgstr "religiões"
 
 msgid "religious"
-msgstr ""
+msgstr "religiosos"
 
 msgid "religious's"
-msgstr ""
+msgstr "do religioso"
 
 msgid "relocation"
-msgstr ""
+msgstr "deslocalização"
 
 msgid "reluctance"
-msgstr ""
+msgstr "relutância"
 
 msgid "reluctant"
-msgstr ""
+msgstr "relutante"
 
 msgid "reluctantly"
-msgstr ""
+msgstr "relutantemente"
 
 msgid "rely"
-msgstr ""
+msgstr "confiar"
 
 msgid "relying"
-msgstr ""
+msgstr "baseando-se"
 
 msgid "remain"
-msgstr ""
+msgstr "permanecem"
 
 msgid "remainder"
-msgstr ""
+msgstr "restante"
 
 msgid "remained"
-msgstr ""
+msgstr "manteve-se"
 
 msgid "remaining"
-msgstr ""
+msgstr "restantes"
 
 msgid "remains"
-msgstr ""
+msgstr "continua a ser"
 
 msgid "remark"
-msgstr ""
+msgstr "Observação"
 
 msgid "remark's"
-msgstr ""
+msgstr "do observação"
 
 msgid "remarkable"
-msgstr ""
+msgstr "notável"
 
 msgid "remarkably"
-msgstr ""
+msgstr "notavelmente"
 
 msgid "remarked"
-msgstr ""
+msgstr "comentou:"
 
 msgid "remarking"
-msgstr ""
+msgstr "comentando"
 
 msgid "remarks"
-msgstr ""
+msgstr "observações"
 
 msgid "remedy"
-msgstr ""
+msgstr "remédio"
 
 msgid "remember"
-msgstr ""
+msgstr "Lembre-se"
 
 msgid "remembered"
-msgstr ""
+msgstr "lembrou-se"
 
 msgid "remembering"
-msgstr ""
+msgstr "lembrando-se"
 
 msgid "remembers"
-msgstr ""
+msgstr "Lembra-se de"
 
 msgid "remind"
-msgstr ""
+msgstr "lembrar"
 
 msgid "reminded"
-msgstr ""
+msgstr "lembrou"
 
 msgid "reminder"
-msgstr ""
+msgstr "lembrete"
 
 msgid "reminding"
-msgstr ""
+msgstr "lembrando"
 
 msgid "reminds"
-msgstr ""
+msgstr "faz lembrar"
 
 msgid "reminiscent"
-msgstr ""
+msgstr "uma reminiscência"
 
 msgid "remote"
 msgstr "distância"
 
 msgid "remotely"
-msgstr ""
+msgstr "remotamente"
 
 msgid "removal"
-msgstr ""
+msgstr "remoção"
 
 msgid "remove"
-msgstr ""
+msgstr "remover"
 
 msgid "remove's"
-msgstr ""
+msgstr "do remover"
 
 msgid "removed"
-msgstr ""
+msgstr "removido"
 
 msgid "removes"
-msgstr ""
+msgstr "Remove"
 
 msgid "removing"
-msgstr ""
+msgstr "removendo"
 
 msgid "rename"
-msgstr ""
+msgstr "Renomear"
 
 msgid "renamed"
-msgstr ""
+msgstr "renomeado"
 
 msgid "renames"
-msgstr ""
+msgstr "renomeia"
 
 msgid "renaming"
-msgstr ""
+msgstr "renomeando"
 
 msgid "rend"
-msgstr ""
+msgstr "rend"
 
 msgid "render"
-msgstr ""
+msgstr "render"
 
 msgid "rendered"
-msgstr ""
+msgstr "processado"
 
 msgid "rendering"
-msgstr ""
+msgstr "renderização"
 
 msgid "renders"
-msgstr ""
+msgstr "processa"
 
 msgid "rending"
-msgstr ""
+msgstr "rasgando"
 
 msgid "rendition"
-msgstr ""
+msgstr "rendição"
 
 msgid "rends"
-msgstr ""
+msgstr "rasga"
 
 msgid "renew"
-msgstr ""
+msgstr "renovar"
 
 msgid "renewed"
-msgstr ""
+msgstr "renovada"
 
 msgid "renewing"
-msgstr ""
+msgstr "renovando"
 
 msgid "renews"
-msgstr ""
+msgstr "renova"
 
 msgid "rent"
-msgstr ""
+msgstr "aluguel"
 
 msgid "repair"
-msgstr ""
+msgstr "reparação"
 
 msgid "repair's"
-msgstr ""
+msgstr "do reparo"
 
 msgid "repaired"
-msgstr ""
+msgstr "reparado"
 
 msgid "repairing"
-msgstr ""
+msgstr "reparação"
 
 msgid "repairs"
-msgstr ""
+msgstr "reparos"
 
 msgid "repeat"
-msgstr ""
+msgstr "Repita"
 
 msgid "repeat's"
-msgstr ""
+msgstr "do repetição"
 
 msgid "repeatable"
-msgstr ""
+msgstr "repetível"
 
 msgid "repeated"
-msgstr ""
+msgstr "repetido"
 
 msgid "repeatedly"
-msgstr ""
+msgstr "repetidamente"
 
 msgid "repeating"
-msgstr ""
+msgstr "Repetindo"
 
 msgid "repeats"
-msgstr ""
+msgstr "se repete"
 
 msgid "repent"
-msgstr ""
+msgstr "arrepender-se"
 
 msgid "repertoire"
-msgstr ""
+msgstr "repertório"
 
 msgid "repetition"
-msgstr ""
+msgstr "repetição"
 
 msgid "repetitive"
-msgstr ""
+msgstr "repetitivos"
 
 msgid "rephrase"
-msgstr ""
+msgstr "reformular"
 
 msgid "replace"
-msgstr ""
+msgstr "substituir"
 
 msgid "replaced"
-msgstr ""
+msgstr "substituído"
 
 msgid "replacement"
-msgstr ""
+msgstr "substituição"
 
 msgid "replacement's"
-msgstr ""
+msgstr "do substituição"
 
 msgid "replacements"
-msgstr ""
+msgstr "substituições"
 
 msgid "replaces"
-msgstr ""
+msgstr "Substitui"
 
 msgid "replacing"
-msgstr ""
+msgstr "substituindo"
 
 msgid "replied"
-msgstr ""
+msgstr "respondeu:"
 
 msgid "replies"
-msgstr ""
+msgstr "respostas"
 
 msgid "reply"
-msgstr ""
+msgstr "resposta"
 
 msgid "reply's"
-msgstr ""
+msgstr "do resposta"
 
 msgid "replying"
-msgstr ""
+msgstr "responder"
 
 msgid "report"
-msgstr ""
+msgstr "relatório"
 
 msgid "report's"
-msgstr ""
+msgstr "do relatório"
 
 msgid "reported"
-msgstr ""
+msgstr "relatado"
 
 msgid "reporter"
-msgstr ""
+msgstr "repórter"
 
 msgid "reporting"
-msgstr ""
+msgstr "emissão de relatórios"
 
 msgid "reports"
-msgstr ""
+msgstr "relatórios"
 
 msgid "represent"
-msgstr ""
+msgstr "representam"
 
 msgid "representation"
-msgstr ""
+msgstr "representação"
 
 msgid "representation's"
-msgstr ""
+msgstr "do representação"
 
 msgid "representations"
-msgstr ""
+msgstr "representações"
 
 msgid "representative"
-msgstr ""
+msgstr "representante"
 
 msgid "representative's"
-msgstr ""
+msgstr "do representante"
 
 msgid "representatives"
-msgstr ""
+msgstr "representantes"
 
 msgid "represented"
-msgstr ""
+msgstr "representado"
 
 msgid "representing"
-msgstr ""
+msgstr "representando"
 
 msgid "represents"
-msgstr ""
+msgstr "representa"
 
 msgid "reproduce"
-msgstr ""
+msgstr "reproduzir"
 
 msgid "reproduced"
-msgstr ""
+msgstr "reproduzida"
 
 msgid "reproduces"
-msgstr ""
+msgstr "reproduz"
 
 msgid "reproducing"
-msgstr ""
+msgstr "reproduzindo"
 
 msgid "reproduction"
-msgstr ""
+msgstr "reprodução"
 
 msgid "repulsive"
-msgstr ""
+msgstr "repulsivo"
 
 msgid "reputation"
-msgstr ""
+msgstr "reputação"
 
 msgid "request"
-msgstr ""
+msgstr "pedido"
 
 msgid "request's"
-msgstr ""
+msgstr "do pedido"
 
 msgid "requested"
-msgstr ""
+msgstr "solicitado"
 
 msgid "requesting"
-msgstr ""
+msgstr "solicitando"
 
 msgid "requests"
-msgstr ""
+msgstr "solicitações"
 
 msgid "require"
-msgstr ""
+msgstr "exigem"
 
 msgid "required"
-msgstr ""
+msgstr "Necessário"
 
 msgid "requirement"
-msgstr ""
+msgstr "exigência"
 
 msgid "requirement's"
-msgstr ""
+msgstr "do exigência"
 
 msgid "requirements"
-msgstr ""
+msgstr "requisitos"
 
 msgid "requires"
-msgstr ""
+msgstr "requer"
 
 msgid "requiring"
-msgstr ""
+msgstr "que exigem"
 
 msgid "requisite"
 msgstr "condição"
 
 msgid "reread"
-msgstr ""
+msgstr "reler"
 
 msgid "rereading"
-msgstr ""
+msgstr "Relendo"
 
 msgid "rereads"
-msgstr ""
+msgstr "relê"
 
 msgid "rescue"
-msgstr ""
+msgstr "resgate"
 
 msgid "research"
-msgstr ""
+msgstr "pesquisa"
 
 msgid "researcher"
-msgstr ""
+msgstr "Pesquisador"
 
 msgid "researcher's"
-msgstr ""
+msgstr "do pesquisador"
 
 msgid "researchers"
-msgstr ""
+msgstr "pesquisadores"
 
 msgid "resemblance"
-msgstr ""
+msgstr "semelhança"
 
 msgid "resemble"
-msgstr ""
+msgstr "assemelham-se a"
 
 msgid "resembled"
-msgstr ""
+msgstr "se assemelhava"
 
 msgid "resembles"
-msgstr ""
+msgstr "assemelha-se a"
 
 msgid "resembling"
-msgstr ""
+msgstr "assemelhando-se a"
 
 msgid "resent"
-msgstr ""
+msgstr "ressentir-se"
 
 msgid "reservation"
-msgstr ""
+msgstr "Reserva"
 
 msgid "reservation's"
-msgstr ""
+msgstr "do reserva"
 
 msgid "reservations"
-msgstr ""
+msgstr "Reservas"
 
 msgid "reserve"
-msgstr ""
+msgstr "Reserva"
 
 msgid "reserve's"
-msgstr ""
+msgstr "do reserva"
 
 msgid "reserved"
-msgstr ""
+msgstr "reservados"
 
 msgid "reserves"
-msgstr ""
+msgstr "Reservas"
 
 msgid "reserving"
-msgstr ""
+msgstr "reservando-se"
 
 msgid "reset"
-msgstr ""
+msgstr "redefinir"
 
 msgid "resets"
-msgstr ""
+msgstr "Redefine"
 
 msgid "resetting"
-msgstr ""
+msgstr "Redefinindo"
 
 msgid "reside"
-msgstr ""
+msgstr "residir"
 
 msgid "residence"
-msgstr ""
+msgstr "residência"
 
 msgid "resident"
-msgstr ""
+msgstr "residente"
 
 msgid "resident's"
-msgstr ""
+msgstr "do residente"
 
 msgid "residents"
-msgstr ""
+msgstr "residentes"
 
 msgid "resides"
-msgstr ""
+msgstr "reside"
 
 msgid "resign"
-msgstr ""
+msgstr "demitir-se"
 
 msgid "resignation"
-msgstr ""
+msgstr "demissão"
 
 msgid "resigned"
-msgstr ""
+msgstr "demitiu-se"
 
 msgid "resigning"
-msgstr ""
+msgstr "desistindo do jogo"
 
 msgid "resigns"
-msgstr ""
+msgstr "demite-se"
 
 msgid "resist"
-msgstr ""
+msgstr "resistir"
 
 msgid "resistance"
-msgstr ""
+msgstr "resistência"
 
 msgid "resolution"
-msgstr ""
+msgstr "resolução"
 
 msgid "resolve"
-msgstr ""
+msgstr "resolver"
 
 msgid "resolved"
-msgstr ""
+msgstr "resolvido"
 
 msgid "resolves"
-msgstr ""
+msgstr "resolve"
 
 msgid "resolving"
-msgstr ""
+msgstr "resolvendo"
 
 msgid "resort"
-msgstr ""
+msgstr "Resort"
 
 msgid "resorted"
-msgstr ""
+msgstr "recorreu"
 
 msgid "resorting"
-msgstr ""
+msgstr "recorrer"
 
 msgid "resorts"
-msgstr ""
+msgstr "Resorts"
 
 msgid "resource"
-msgstr ""
+msgstr "recurso"
 
 msgid "resource's"
-msgstr ""
+msgstr "do recurso"
 
 msgid "resources"
-msgstr ""
+msgstr "recursos"
 
 msgid "respect"
-msgstr ""
+msgstr "respeito"
 
 msgid "respect's"
-msgstr ""
+msgstr "respeito"
 
 msgid "respectable"
-msgstr ""
+msgstr "respeitável"
 
 msgid "respected"
-msgstr ""
+msgstr "respeitado"
 
 msgid "respecting"
-msgstr ""
+msgstr "respeitando"
 
 msgid "respective"
-msgstr ""
+msgstr "respectivos"
 
 msgid "respectively"
-msgstr ""
+msgstr "respectivamente"
 
 msgid "respects"
-msgstr ""
+msgstr "aspectos"
 
 msgid "respond"
-msgstr ""
+msgstr "responder"
 
 msgid "responded"
-msgstr ""
+msgstr "respondeu"
 
 msgid "responding"
-msgstr ""
+msgstr "respondendo"
 
 msgid "responds"
-msgstr ""
+msgstr "responde"
 
 msgid "response"
-msgstr ""
+msgstr "resposta"
 
 msgid "response's"
-msgstr ""
+msgstr "do resposta"
 
 msgid "responses"
-msgstr ""
+msgstr "respostas"
 
 msgid "responsibilities"
-msgstr ""
+msgstr "responsabilidades"
 
 msgid "responsibility"
-msgstr ""
+msgstr "responsabilidade"
 
 msgid "responsibility's"
-msgstr ""
+msgstr "responsabilidade"
 
 msgid "responsible"
-msgstr ""
+msgstr "responsável"
 
 msgid "rest"
-msgstr ""
+msgstr "resto"
 
 msgid "restart"
-msgstr ""
+msgstr "reiniciar"
 
 msgid "restart's"
-msgstr ""
+msgstr "do reinício"
 
 msgid "restarted"
-msgstr ""
+msgstr "reiniciado"
 
 msgid "restarting"
-msgstr ""
+msgstr "reiniciando"
 
 msgid "restarts"
-msgstr ""
+msgstr "reinicia"
 
 msgid "restaurant"
-msgstr ""
+msgstr "restaurante"
 
 msgid "restaurant's"
-msgstr ""
+msgstr "do restaurante"
 
 msgid "restaurants"
-msgstr ""
+msgstr "restaurantes"
 
 msgid "rested"
-msgstr ""
+msgstr "descansou"
 
 msgid "resting"
-msgstr ""
+msgstr "descansando"
 
 msgid "restore"
-msgstr ""
+msgstr "restauração"
 
 msgid "restored"
-msgstr ""
+msgstr "restaurado"
 
 msgid "restores"
-msgstr ""
+msgstr "restaura"
 
 msgid "restoring"
-msgstr ""
+msgstr "restaurando"
 
 msgid "restrain"
-msgstr ""
+msgstr "conter"
 
 msgid "restrained"
-msgstr ""
+msgstr "contido"
 
 msgid "restraining"
 msgstr "contenção"
 
 msgid "restrains"
-msgstr ""
+msgstr "Freie"
 
 msgid "restrict"
-msgstr ""
+msgstr "restringir"
 
 msgid "restricted"
-msgstr ""
+msgstr "restrito"
 
 msgid "restricting"
-msgstr ""
+msgstr "restringindo"
 
 msgid "restriction"
-msgstr ""
+msgstr "restrição"
 
 msgid "restriction's"
-msgstr ""
+msgstr "do restrição"
 
 msgid "restrictions"
-msgstr ""
+msgstr "restrições"
 
 msgid "restrictive"
-msgstr ""
+msgstr "restritivas"
 
 msgid "restricts"
-msgstr ""
+msgstr "restringe"
 
 msgid "rests"
-msgstr ""
+msgstr "baseia-se"
 
 msgid "result"
-msgstr ""
+msgstr "resultado"
 
 msgid "result's"
-msgstr ""
+msgstr "do resultado"
 
 msgid "resulted"
-msgstr ""
+msgstr "resultou"
 
 msgid "resulting"
-msgstr ""
+msgstr "resultando"
 
 msgid "results"
-msgstr ""
+msgstr "resultados"
 
 msgid "resume"
 msgstr "currículo"
 
 msgid "resumed"
-msgstr ""
+msgstr "retomada"
 
 msgid "resumes"
-msgstr ""
+msgstr "currículos"
 
 msgid "resuming"
-msgstr ""
+msgstr "Retomando"
 
 msgid "resurrection"
-msgstr ""
+msgstr "Ressurreição"
 
 msgid "retail"
-msgstr ""
+msgstr "varejo"
 
 msgid "retain"
-msgstr ""
+msgstr "reter"
 
 msgid "retained"
-msgstr ""
+msgstr "retidos"
 
 msgid "retaining"
-msgstr ""
+msgstr "de retenção"
 
 msgid "retains"
-msgstr ""
+msgstr "retém"
 
 msgid "retire"
-msgstr ""
+msgstr "aposentar-se"
 
 msgid "retired"
-msgstr ""
+msgstr "aposentado"
 
 msgid "retirement"
-msgstr ""
+msgstr "aposentadoria"
 
 msgid "retires"
-msgstr ""
+msgstr "se aposenta"
 
 msgid "retiring"
-msgstr ""
+msgstr "aposentar-se"
 
 msgid "retract"
-msgstr ""
+msgstr "retrair"
 
 msgid "retrieval"
-msgstr ""
+msgstr "recuperação de"
 
 msgid "retrieve"
-msgstr ""
+msgstr "recuperar"
 
 msgid "retrieved"
-msgstr ""
+msgstr "Obtida"
 
 msgid "retrieves"
-msgstr ""
+msgstr "Recupera"
 
 msgid "retrieving"
-msgstr ""
+msgstr "Recuperando"
 
 msgid "return"
-msgstr ""
+msgstr "retorno"
 
 msgid "return's"
-msgstr ""
+msgstr "do retorno"
 
 msgid "returned"
-msgstr ""
+msgstr "retornado"
 
 msgid "returning"
-msgstr ""
+msgstr "retornando"
 
 msgid "returns"
-msgstr ""
+msgstr "Retorna"
 
 msgid "reuse"
-msgstr ""
+msgstr "reutilização"
 
 msgid "reveal"
-msgstr ""
+msgstr "revelar"
 
 msgid "revealed"
-msgstr ""
+msgstr "revelado"
 
 msgid "revealing"
-msgstr ""
+msgstr "revelando"
 
 msgid "reveals"
-msgstr ""
+msgstr "revela"
 
 msgid "revelation"
-msgstr ""
+msgstr "revelação"
 
 msgid "revenge"
-msgstr ""
+msgstr "vingança"
 
 msgid "revenue"
-msgstr ""
+msgstr "receitas"
 
 msgid "reverse"
-msgstr ""
+msgstr "reversa"
 
 msgid "reversed"
-msgstr ""
+msgstr "invertida"
 
 msgid "reverses"
-msgstr ""
+msgstr "inverte"
 
 msgid "reversing"
-msgstr ""
+msgstr "invertendo"
 
 msgid "revert"
-msgstr ""
+msgstr "reverter"
 
 msgid "review"
-msgstr ""
+msgstr "revisão"
 
 msgid "review's"
-msgstr ""
+msgstr "do revisão"
 
 msgid "reviewed"
-msgstr ""
+msgstr "revisado"
 
 msgid "reviewing"
-msgstr ""
+msgstr "revendo"
 
 msgid "reviews"
-msgstr ""
+msgstr "Comentários"
 
 msgid "revise"
-msgstr ""
+msgstr "rever"
 
 msgid "revised"
-msgstr ""
+msgstr "revista"
 
 msgid "revises"
-msgstr ""
+msgstr "revisa"
 
 msgid "revising"
-msgstr ""
+msgstr "revisão"
 
 msgid "revision"
-msgstr ""
+msgstr "revisão"
 
 msgid "revolt"
-msgstr ""
+msgstr "revolta"
 
 msgid "revolted"
-msgstr ""
+msgstr "revoltou-se"
 
 msgid "revolting"
-msgstr ""
+msgstr "revoltante"
 
 msgid "revolts"
-msgstr ""
+msgstr "revoltas"
 
 msgid "revolution"
-msgstr ""
+msgstr "Revolução"
 
 msgid "revolutionary"
-msgstr ""
+msgstr "revolucionário"
 
 msgid "reward"
-msgstr ""
+msgstr "recompensa"
 
 msgid "reward's"
-msgstr ""
+msgstr "recompensa"
 
 msgid "rewards"
-msgstr ""
+msgstr "recompensas"
 
 msgid "rewrite"
-msgstr ""
+msgstr "reescrever"
 
 msgid "rewrites"
-msgstr ""
+msgstr "reescreve"
 
 msgid "rewriting"
-msgstr ""
+msgstr "Reescrevendo"
 
 msgid "rewritten"
-msgstr ""
+msgstr "reescrito"
 
 msgid "rewrote"
-msgstr ""
+msgstr "reescreveu"
 
 msgid "rhetorical"
-msgstr ""
+msgstr "retórica"
 
 msgid "rhyme"
-msgstr ""
+msgstr "rima"
 
 msgid "rhythm"
-msgstr ""
+msgstr "ritmo"
 
 msgid "ribbon"
-msgstr ""
+msgstr "faixa de opções"
 
 msgid "rice"
-msgstr ""
+msgstr "arroz"
 
 msgid "rich"
-msgstr ""
+msgstr "rico"
 
 msgid "richer"
-msgstr ""
+msgstr "mais rico"
 
 msgid "richest"
-msgstr ""
+msgstr "mais ricos"
 
 msgid "rid"
-msgstr ""
+msgstr "livre-se"
 
 msgid "ridden"
-msgstr ""
+msgstr "montado"
 
 msgid "ridding"
-msgstr ""
+msgstr "livrando"
 
 msgid "ride"
-msgstr ""
+msgstr "passeio"
 
 msgid "rides"
-msgstr ""
+msgstr "passeios"
 
 msgid "ridiculous"
-msgstr ""
+msgstr "ridículo"
 
 msgid "ridiculously"
-msgstr ""
+msgstr "ridiculamente"
 
 msgid "riding"
-msgstr ""
+msgstr "equitação"
 
 msgid "rids"
-msgstr ""
+msgstr "livra"
 
 msgid "right"
-msgstr ""
+msgstr "direito"
 
 msgid "right's"
-msgstr ""
+msgstr "do direito"
 
 msgid "rightly"
-msgstr ""
+msgstr "com razão"
 
 msgid "rights"
-msgstr ""
+msgstr "direitos"
 
 msgid "rigid"
-msgstr ""
+msgstr "rígida"
 
 msgid "rigorous"
-msgstr ""
+msgstr "rigorosa"
 
 msgid "ring"
-msgstr ""
+msgstr "anel"
 
 msgid "ring's"
-msgstr ""
+msgstr "do anel"
 
 msgid "ringed"
-msgstr ""
+msgstr "com olheiras"
 
 msgid "ringing"
-msgstr ""
+msgstr "tocando"
 
 msgid "rings"
-msgstr ""
+msgstr "anéis"
 
 msgid "riot"
-msgstr ""
+msgstr "motim"
 
 msgid "rip"
-msgstr ""
+msgstr "Rip"
 
 msgid "ripped"
-msgstr ""
+msgstr "rasgado"
 
 msgid "ripping"
-msgstr ""
+msgstr "rasgando"
 
 msgid "rips"
-msgstr ""
+msgstr "rasga"
 
 msgid "rise"
-msgstr ""
+msgstr "ascensão"
 
 msgid "rise's"
-msgstr ""
+msgstr "ascensão"
 
 msgid "risen"
-msgstr ""
+msgstr "ressuscitado"
 
 msgid "rises"
-msgstr ""
+msgstr "Levanta-se"
 
 msgid "rising"
-msgstr ""
+msgstr "Rising"
 
 msgid "risk"
-msgstr ""
+msgstr "risco"
 
 msgid "risk's"
-msgstr ""
+msgstr "do risco"
 
 msgid "risked"
-msgstr ""
+msgstr "arriscou"
 
 msgid "risking"
-msgstr ""
+msgstr "arriscando"
 
 msgid "risks"
-msgstr ""
+msgstr "riscos"
 
 msgid "risky"
-msgstr ""
+msgstr "arriscado"
 
 msgid "ritual"
-msgstr ""
+msgstr "ritual"
 
 msgid "ritual's"
-msgstr ""
+msgstr "do ritual"
 
 msgid "rituals"
-msgstr ""
+msgstr "rituais"
 
 msgid "rival"
-msgstr ""
+msgstr "rival"
 
 msgid "rival's"
-msgstr ""
+msgstr "do rival"
 
 msgid "rivals"
-msgstr ""
+msgstr "rivais"
 
 msgid "river"
-msgstr ""
+msgstr "Rio"
 
 msgid "river's"
-msgstr ""
+msgstr "do Rio"
 
 msgid "rivers"
-msgstr ""
+msgstr "rios"
 
 msgid "road"
-msgstr ""
+msgstr "estrada"
 
 msgid "road's"
-msgstr ""
+msgstr "do estrada"
 
 msgid "roads"
-msgstr ""
+msgstr "estradas"
 
 msgid "robot"
-msgstr ""
+msgstr "robô"
 
 msgid "robot's"
-msgstr ""
+msgstr "do robô"
 
 msgid "robots"
-msgstr ""
+msgstr "robôs"
 
 msgid "robust"
-msgstr ""
+msgstr "robusto"
 
 msgid "rock"
-msgstr ""
+msgstr "rocha"
 
 msgid "rock's"
-msgstr ""
+msgstr "do rock"
 
 msgid "rocket"
-msgstr ""
+msgstr "foguete"
 
 msgid "rocks"
-msgstr ""
+msgstr "rochas"
 
 msgid "rod"
-msgstr ""
+msgstr "haste"
 
 msgid "rode"
-msgstr ""
+msgstr "rodou"
 
 msgid "role"
-msgstr ""
+msgstr "papel"
 
 msgid "role's"
-msgstr ""
+msgstr "do papel"
 
 msgid "roles"
-msgstr ""
+msgstr "papéis"
 
 msgid "roll"
-msgstr ""
+msgstr "rolo"
 
 msgid "roll's"
-msgstr ""
+msgstr "do rolo"
 
 msgid "rolled"
-msgstr ""
+msgstr "rolou"
 
 msgid "rolling"
-msgstr ""
+msgstr "rolamento"
 
 msgid "rolls"
-msgstr ""
+msgstr "rolos"
 
 msgid "roman"
-msgstr ""
+msgstr "Roman"
 
 msgid "romance"
-msgstr ""
+msgstr "romance"
 
 msgid "romantic"
-msgstr ""
+msgstr "romântico"
 
 msgid "roof"
-msgstr ""
+msgstr "telhado"
 
 msgid "room"
 msgstr "câmera"
 
 msgid "room's"
-msgstr ""
+msgstr "do quarto"
 
 msgid "rooms"
-msgstr ""
+msgstr "quartos"
 
 msgid "root"
-msgstr ""
+msgstr "raiz"
 
 msgid "root's"
-msgstr ""
+msgstr "raiz"
 
 msgid "roots"
-msgstr ""
+msgstr "raízes"
 
 msgid "rope"
-msgstr ""
+msgstr "corda"
 
 msgid "rose"
-msgstr ""
+msgstr "Rosa"
 
 msgid "rot"
-msgstr ""
+msgstr "podridão"
 
 msgid "rotate"
-msgstr ""
+msgstr "girar"
 
 msgid "rotated"
-msgstr ""
+msgstr "girado"
 
 msgid "rotates"
-msgstr ""
+msgstr "gira"
 
 msgid "rotating"
-msgstr ""
+msgstr "de giro"
 
 msgid "rotation"
-msgstr ""
+msgstr "rotação"
 
 msgid "rotten"
-msgstr ""
+msgstr "podre"
 
 msgid "rough"
-msgstr ""
+msgstr "bruto"
 
 msgid "roughly"
-msgstr ""
+msgstr "mais ou menos"
 
 msgid "round"
-msgstr ""
+msgstr "rodada"
 
 msgid "round's"
-msgstr ""
+msgstr "do rodada"
 
 msgid "roundabout"
-msgstr ""
+msgstr "rotunda"
 
 msgid "rounded"
-msgstr ""
+msgstr "arredondado"
 
 msgid "rounding"
-msgstr ""
+msgstr "arredondamento"
 
 msgid "rounds"
-msgstr ""
+msgstr "rodadas"
 
 msgid "rout"
-msgstr ""
+msgstr "goleada"
 
 msgid "route"
-msgstr ""
+msgstr "rota"
 
 msgid "route's"
-msgstr ""
+msgstr "do rota"
 
 msgid "routed"
-msgstr ""
+msgstr "roteados"
 
 msgid "routes"
-msgstr ""
+msgstr "rotas"
 
 msgid "routine"
-msgstr ""
+msgstr "rotina"
 
 msgid "routine's"
-msgstr ""
+msgstr "a rotina"
 
 msgid "routinely"
-msgstr ""
+msgstr "rotineiramente"
 
 msgid "routines"
-msgstr ""
+msgstr "rotinas"
 
 msgid "routing"
-msgstr ""
+msgstr "roteamento"
 
 msgid "routs"
-msgstr ""
+msgstr "derrotas"
 
 msgid "row"
-msgstr ""
+msgstr "linha"
 
 msgid "row's"
-msgstr ""
+msgstr "do linha"
 
 msgid "rows"
-msgstr ""
+msgstr "linhas"
 
 msgid "royal"
-msgstr ""
+msgstr "Royal"
 
 msgid "royalties"
-msgstr ""
+msgstr "royalties"
 
 msgid "rub"
-msgstr ""
+msgstr "Esfregue"
 
 msgid "rubber"
-msgstr ""
+msgstr "borracha"
 
 msgid "rubbish"
-msgstr ""
+msgstr "lixo"
 
 msgid "rude"
-msgstr ""
+msgstr "rude"
 
 msgid "ruin"
-msgstr ""
+msgstr "ruína"
 
 msgid "ruined"
-msgstr ""
+msgstr "arruinado"
 
 msgid "ruining"
-msgstr ""
+msgstr "arruinando"
 
 msgid "ruins"
-msgstr ""
+msgstr "ruínas"
 
 msgid "rule"
-msgstr ""
+msgstr "regra"
 
 msgid "rule's"
-msgstr ""
+msgstr "regra"
 
 msgid "ruled"
-msgstr ""
+msgstr "governou"
 
 msgid "ruler"
-msgstr ""
+msgstr "régua"
 
 msgid "ruler's"
-msgstr ""
+msgstr "do governante"
 
 msgid "rulers"
-msgstr ""
+msgstr "governantes"
 
 msgid "rules"
-msgstr ""
+msgstr "regras"
 
 msgid "ruling"
-msgstr ""
+msgstr "decisão"
 
 msgid "rumor"
-msgstr ""
+msgstr "rumor"
 
 msgid "rumor's"
-msgstr ""
+msgstr "do boato"
 
 msgid "rumored"
-msgstr ""
+msgstr "rumores"
 
 msgid "rumoring"
-msgstr ""
+msgstr "tecnologia rumor"
 
 msgid "rumors"
-msgstr ""
+msgstr "rumores"
 
 msgid "run"
-msgstr ""
+msgstr "executar"
 
 msgid "run's"
-msgstr ""
+msgstr "do gerência"
 
 msgid "rung"
-msgstr ""
+msgstr "degrau"
 
 msgid "running"
-msgstr ""
+msgstr "executando"
 
 msgid "runs"
-msgstr ""
+msgstr "é executado"
 
 msgid "rural"
-msgstr ""
+msgstr "rural"
 
 msgid "rush"
-msgstr ""
+msgstr "Rush"
 
 msgid "rushed"
-msgstr ""
+msgstr "apressado"
 
 msgid "rushes"
-msgstr ""
+msgstr "apressa-se"
 
 msgid "rushing"
-msgstr ""
+msgstr "apressando-se"
 
 msgid "rusty"
-msgstr ""
+msgstr "enferrujado"
 
 msgid "sabotage"
 msgstr ""

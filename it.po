@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Database\n"
 "POT-Creation-Date: 2015-04-29 17:20+0100\n"
-"PO-Revision-Date: 2015-05-09 18:12+0000\n"
+"PO-Revision-Date: 2015-05-13 12:01+0000\n"
 "Last-Translator: Valentin OVD <vovd.tanglu@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/database/language/it/)\n"
 "MIME-Version: 1.0\n"
@@ -33652,511 +33652,511 @@ msgid "task"
 msgstr "compito"
 
 msgid "task's"
-msgstr ""
+msgstr "dell'attività"
 
 msgid "tasks"
-msgstr ""
+msgstr "compiti"
 
 msgid "taste"
-msgstr ""
+msgstr "gusto"
 
 msgid "taste's"
-msgstr ""
+msgstr "di gusto"
 
 msgid "tasted"
-msgstr ""
+msgstr "assaggiato"
 
 msgid "tasteless"
-msgstr ""
+msgstr "insapore"
 
 msgid "tastes"
-msgstr ""
+msgstr "gusti"
 
 msgid "tasting"
-msgstr ""
+msgstr "degustazione"
 
 msgid "taught"
-msgstr ""
+msgstr "ha insegnato"
 
 msgid "tax"
-msgstr ""
+msgstr "fiscale"
 
 msgid "tax's"
-msgstr ""
+msgstr "dell'imposta"
 
 msgid "taxation"
-msgstr ""
+msgstr "tassazione"
 
 msgid "taxes"
-msgstr ""
+msgstr "tasse"
 
 msgid "taxi"
-msgstr ""
+msgstr "taxi"
 
 msgid "taxpayer"
-msgstr ""
+msgstr "contribuente"
 
 msgid "taxpayer's"
-msgstr ""
+msgstr "contribuente"
 
 msgid "taxpayers"
-msgstr ""
+msgstr "contribuenti"
 
 msgid "tea"
-msgstr ""
+msgstr "tè"
 
 msgid "teach"
-msgstr ""
+msgstr "insegnare"
 
 msgid "teacher"
-msgstr ""
+msgstr "insegnante"
 
 msgid "teacher's"
-msgstr ""
+msgstr "dell'insegnante"
 
 msgid "teachers"
-msgstr ""
+msgstr "insegnanti"
 
 msgid "teaches"
-msgstr ""
+msgstr "insegna"
 
 msgid "teaching"
-msgstr ""
+msgstr "insegnamento"
 
 msgid "team"
-msgstr ""
+msgstr "squadra"
 
 msgid "team's"
-msgstr ""
+msgstr "della squadra"
 
 msgid "teams"
-msgstr ""
+msgstr "squadre"
 
 msgid "teapot"
-msgstr ""
+msgstr "teiera"
 
 msgid "tear"
-msgstr ""
+msgstr "lacrima"
 
 msgid "tear's"
-msgstr ""
+msgstr "di lacrima"
 
 msgid "teared"
-msgstr ""
+msgstr "pianto"
 
 msgid "tearing"
-msgstr ""
+msgstr "lacerazione"
 
 msgid "tears"
-msgstr ""
+msgstr "lacrime"
 
 msgid "technical"
-msgstr ""
+msgstr "tecnico"
 
 msgid "technically"
-msgstr ""
+msgstr "tecnicamente"
 
 msgid "technique"
-msgstr ""
+msgstr "tecnica"
 
 msgid "technique's"
-msgstr ""
+msgstr "di tecnica"
 
 msgid "techniques"
-msgstr ""
+msgstr "tecniche"
 
 msgid "technological"
-msgstr ""
+msgstr "tecnologica"
 
 msgid "technology"
-msgstr ""
+msgstr "tecnologia"
 
 msgid "tedious"
-msgstr ""
+msgstr "noioso"
 
 msgid "teenage"
-msgstr ""
+msgstr "adolescente"
 
 msgid "teenager"
-msgstr ""
+msgstr "adolescente"
 
 msgid "teenager's"
-msgstr ""
+msgstr "dell'adolescente"
 
 msgid "teenagers"
 msgstr "gioco"
 
 msgid "teeth"
-msgstr ""
+msgstr "denti"
 
 msgid "telephone"
-msgstr ""
+msgstr "telefono"
 
 msgid "telephone's"
-msgstr ""
+msgstr "di telefono"
 
 msgid "telephones"
-msgstr ""
+msgstr "telefoni"
 
 msgid "telescope"
-msgstr ""
+msgstr "telescopio"
 
 msgid "television"
-msgstr ""
+msgstr "televisione"
 
 msgid "tell"
 msgstr "terribili"
 
 msgid "telling"
-msgstr ""
+msgstr "dicendo"
 
 msgid "tells"
-msgstr ""
+msgstr "racconta"
 
 msgid "temper"
-msgstr ""
+msgstr "temperamento"
 
 msgid "temperature"
-msgstr ""
+msgstr "temperatura"
 
 msgid "temperature's"
-msgstr ""
+msgstr "di temperatura"
 
 msgid "temperatures"
-msgstr ""
+msgstr "temperature"
 
 msgid "temple"
-msgstr ""
+msgstr "Tempio"
 
 msgid "temporarily"
-msgstr ""
+msgstr "temporaneamente"
 
 msgid "temporary"
-msgstr ""
+msgstr "temporanea"
 
 msgid "tempt"
-msgstr ""
+msgstr "tentare"
 
 msgid "temptation"
-msgstr ""
+msgstr "tentazione"
 
 msgid "tempted"
-msgstr ""
+msgstr "tentati"
 
 msgid "tempting"
-msgstr ""
+msgstr "allettante"
 
 msgid "tempts"
-msgstr ""
+msgstr "tenta"
 
 msgid "ten"
-msgstr ""
+msgstr "dieci"
 
 msgid "ten's"
-msgstr ""
+msgstr "su dieci"
 
 msgid "tend"
-msgstr ""
+msgstr "tendono"
 
 msgid "tended"
-msgstr ""
+msgstr "tendeva"
 
 msgid "tendencies"
-msgstr ""
+msgstr "tendenze"
 
 msgid "tendency"
-msgstr ""
+msgstr "tendenza"
 
 msgid "tendency's"
-msgstr ""
+msgstr "di tendenza"
 
 msgid "tender"
-msgstr ""
+msgstr "gara d'appalto"
 
 msgid "tending"
-msgstr ""
+msgstr "tendente"
 
 msgid "tends"
-msgstr ""
+msgstr "tende"
 
 msgid "tennis"
-msgstr ""
+msgstr "campi da tennis"
 
 msgid "tens"
-msgstr ""
+msgstr "decine"
 
 msgid "tense"
-msgstr ""
+msgstr "tesa"
 
 msgid "tension"
-msgstr ""
+msgstr "tensione"
 
 msgid "tentative"
-msgstr ""
+msgstr "provvisorio"
 
 msgid "tentatively"
-msgstr ""
+msgstr "provvisoriamente"
 
 msgid "tenth"
-msgstr ""
+msgstr "decimo"
 
 msgid "term"
-msgstr ""
+msgstr "termine"
 
 msgid "term's"
-msgstr ""
+msgstr "di termine"
 
 msgid "termed"
-msgstr ""
+msgstr "definito"
 
 msgid "terminal"
-msgstr ""
+msgstr "terminale"
 
 msgid "terminal's"
-msgstr ""
+msgstr "su terminale"
 
 msgid "terminally"
-msgstr ""
+msgstr "terminalmente"
 
 msgid "terminals"
-msgstr ""
+msgstr "terminali"
 
 msgid "terminate"
-msgstr ""
+msgstr "terminare"
 
 msgid "terminated"
-msgstr ""
+msgstr "terminato"
 
 msgid "terminates"
-msgstr ""
+msgstr "termina"
 
 msgid "terminating"
-msgstr ""
+msgstr "che chiude"
 
 msgid "termination"
-msgstr ""
+msgstr "terminazione"
 
 msgid "terminator"
-msgstr ""
+msgstr "Terminator"
 
 msgid "terming"
-msgstr ""
+msgstr "chiamando"
 
 msgid "terminology"
-msgstr ""
+msgstr "terminologia"
 
 msgid "terms"
-msgstr ""
+msgstr "termini"
 
 msgid "terrible"
-msgstr ""
+msgstr "terribile"
 
 msgid "terribly"
-msgstr ""
+msgstr "terribilmente"
 
 msgid "terrified"
-msgstr ""
+msgstr "terrorizzato"
 
 msgid "terrifies"
-msgstr ""
+msgstr "terrorizza"
 
 msgid "terrify"
-msgstr ""
+msgstr "terrorizzare"
 
 msgid "terrifying"
-msgstr ""
+msgstr "terrificante"
 
 msgid "territory"
-msgstr ""
+msgstr "territorio"
 
 msgid "terror"
-msgstr ""
+msgstr "terrore"
 
 msgid "terrorism"
-msgstr ""
+msgstr "terrorismo"
 
 msgid "terrorist"
-msgstr ""
+msgstr "terrorista"
 
 msgid "terrorist's"
-msgstr ""
+msgstr "terrorista"
 
 msgid "terrorists"
-msgstr ""
+msgstr "terroristi"
 
 msgid "terse"
-msgstr ""
+msgstr "laconico"
 
 msgid "test"
-msgstr ""
+msgstr "prova"
 
 msgid "test's"
-msgstr ""
+msgstr "di prova"
 
 msgid "tested"
-msgstr ""
+msgstr "testato"
 
 msgid "testing"
-msgstr ""
+msgstr "test"
 
 msgid "tests"
-msgstr ""
+msgstr "test"
 
 msgid "text"
-msgstr ""
+msgstr "testo"
 
 msgid "text's"
-msgstr ""
+msgstr "di testo"
 
 msgid "textbook"
-msgstr ""
+msgstr "libro di testo"
 
 msgid "textbook's"
-msgstr ""
+msgstr "di libro di testo"
 
 msgid "textbooks"
-msgstr ""
+msgstr "libri di testo liberi"
 
 msgid "texts"
-msgstr ""
+msgstr "testi"
 
 msgid "textual"
-msgstr ""
+msgstr "testuale"
 
 msgid "than"
-msgstr ""
+msgstr "rispetto"
 
 msgid "thank"
-msgstr ""
+msgstr "Grazie"
 
 msgid "thanked"
-msgstr ""
+msgstr "ringraziato"
 
 msgid "thankful"
-msgstr ""
+msgstr "grati"
 
 msgid "thankfully"
-msgstr ""
+msgstr "per fortuna"
 
 msgid "thanking"
-msgstr ""
+msgstr "ringraziando"
 
 msgid "thanks"
-msgstr ""
+msgstr "Grazie"
 
 msgid "that"
-msgstr ""
+msgstr "che"
 
 msgid "that's"
-msgstr ""
+msgstr "Cioè"
 
 msgid "the"
 msgstr "morire"
 
 msgid "theater"
-msgstr ""
+msgstr "Teatro"
 
 msgid "thee"
-msgstr ""
+msgstr "te"
 
 msgid "theft"
-msgstr ""
+msgstr "furto"
 
 msgid "their"
-msgstr ""
+msgstr "loro"
 
 msgid "theirs"
-msgstr ""
+msgstr "loro"
 
 msgid "them"
-msgstr ""
+msgstr "li"
 
 msgid "theme"
-msgstr ""
+msgstr "tema"
 
 msgid "theme's"
-msgstr ""
+msgstr "su tema"
 
 msgid "themes"
-msgstr ""
+msgstr "temi"
 
 msgid "themselves"
-msgstr ""
+msgstr "se stessi"
 
 msgid "then"
-msgstr ""
+msgstr "poi"
 
 msgid "theological"
-msgstr ""
+msgstr "teologica"
 
 msgid "theology"
-msgstr ""
+msgstr "teologia"
 
 msgid "theorem"
-msgstr ""
+msgstr "teorema"
 
 msgid "theorem's"
-msgstr ""
+msgstr "del teorema"
 
 msgid "theorems"
-msgstr ""
+msgstr "teoremi"
 
 msgid "theoretical"
-msgstr ""
+msgstr "teorica"
 
 msgid "theoretically"
-msgstr ""
+msgstr "teoricamente"
 
 msgid "theories"
-msgstr ""
+msgstr "teorie"
 
 msgid "theory"
-msgstr ""
+msgstr "teoria"
 
 msgid "theory's"
-msgstr ""
+msgstr "di teoria"
 
 msgid "therapy"
-msgstr ""
+msgstr "terapia"
 
 msgid "there"
-msgstr ""
+msgstr "ci"
 
 msgid "there's"
-msgstr ""
+msgstr "non c'è"
 
 msgid "thereabouts"
-msgstr ""
+msgstr "giù di lì"
 
 msgid "thereafter"
-msgstr ""
+msgstr "da allora in poi"
 
 msgid "thereby"
-msgstr ""
+msgstr "quindi"
 
 msgid "therefore"
-msgstr ""
+msgstr "Pertanto"
 
 msgid "therein"
-msgstr ""
+msgstr "ivi"
 
 msgid "thereof"
-msgstr ""
+msgstr "loro"
 
 msgid "these"
 msgstr "Alba"
 
 msgid "theses"
-msgstr ""
+msgstr "tesi"
 
 msgid "thesis"
-msgstr ""
+msgstr "tesi"
 
 msgid "thesis's"
-msgstr ""
+msgstr "di tesi"
 
 msgid "they"
-msgstr ""
+msgstr "essi"
 
 msgid "they're"
 msgstr ""
